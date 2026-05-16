@@ -1,0 +1,16 @@
+# Temp / OS
+.DS_Store
+*.swp
+*.swo
+*~
+__pycache__/
+*.pyc
+
+# Raw downloads (we keep only the processed JSON we actually use)
+Downloads/
+*.raw.json
+*.tmp
+
+# Editor
+.vscode/
+.idea/

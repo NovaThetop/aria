@@ -1,0 +1,2965 @@
+[
+ {
+  "name": "Joroisvirran ylikulkusilta",
+  "code": "SK-2585",
+  "lat": 62.1633,
+  "lon": 27.83592,
+  "roads": [
+   "5"
+  ],
+  "rails": [
+   "014"
+  ],
+  "type": "water"
+ },
+ {
+  "name": "Kanavan silta",
+  "code": "SK-2588",
+  "lat": 62.19065,
+  "lon": 27.85448,
+  "roads": [
+   "5"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Mulan silta",
+  "code": "SK-2594",
+  "lat": 62.28279,
+  "lon": 27.87052,
+  "roads": [
+   "5"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Mulan silta",
+  "code": "SK-2593",
+  "lat": 62.28287,
+  "lon": 27.87028,
+  "roads": [
+   "5"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Särämäpuron silta",
+  "code": "O-5206",
+  "lat": 64.26538,
+  "lon": 27.84468,
+  "roads": [
+   "5"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Pohjajoen silta",
+  "code": "O-2786",
+  "lat": 64.29748,
+  "lon": 27.99591,
+  "roads": [
+   "5"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Miesjoen silta",
+  "code": "O-2093",
+  "lat": 64.36043,
+  "lon": 28.10016,
+  "roads": [
+   "5"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Laajanjoen silta",
+  "code": "O-2094",
+  "lat": 64.36678,
+  "lon": 28.09983,
+  "roads": [
+   "5"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Heikkisenjoen silta",
+  "code": "O-2095",
+  "lat": 64.47577,
+  "lon": 28.15256,
+  "roads": [
+   "5"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Haapajoen silta I",
+  "code": "SK-1003",
+  "lat": 62.36611,
+  "lon": 30.10015,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Rauanjoen silta",
+  "code": "SK-1004",
+  "lat": 62.39058,
+  "lon": 30.08971,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Haapajoen silta II",
+  "code": "SK-1005",
+  "lat": 62.41753,
+  "lon": 30.07569,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Haapajoen silta",
+  "code": "SK-5446",
+  "lat": 62.55168,
+  "lon": 29.8403,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Pekkalan läntinen silta",
+  "code": "SK-2972",
+  "lat": 62.60853,
+  "lon": 29.79101,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Pekkalan itäinen silta",
+  "code": "SK-1713",
+  "lat": 62.60855,
+  "lon": 29.79135,
+  "roads": [
+   "25503",
+   "6",
+   "70006"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kalliojoen silta",
+  "code": "SK-1428",
+  "lat": 62.87701,
+  "lon": 29.84327,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Heikinpuron putkisilta",
+  "code": "SK-5808",
+  "lat": 62.93115,
+  "lon": 29.82472,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Palojoen silta",
+  "code": "SK-1429",
+  "lat": 62.9441,
+  "lon": 29.81455,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Peukalojoen silta",
+  "code": "SK-1515",
+  "lat": 63.06183,
+  "lon": 29.65386,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Huutojoen silta",
+  "code": "SK-1516",
+  "lat": 63.1773,
+  "lon": 29.43583,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Härkinpuron silta",
+  "code": "SK-5453",
+  "lat": 63.18253,
+  "lon": 29.38671,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Juuanjoen silta",
+  "code": "SK-1565",
+  "lat": 63.23425,
+  "lon": 29.28435,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kiteenpuron silta",
+  "code": "SK-1591",
+  "lat": 63.3899,
+  "lon": 29.07642,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Aronsalmen silta",
+  "code": "SK-1590",
+  "lat": 63.48571,
+  "lon": 29.04629,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Valtimonjoen silta",
+  "code": "SK-1588",
+  "lat": 63.64938,
+  "lon": 28.87567,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Nuolikosken silta",
+  "code": "SK-1097",
+  "lat": 63.70837,
+  "lon": 28.75654,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Rumojoen silta",
+  "code": "SK-1541",
+  "lat": 63.7481,
+  "lon": 28.67534,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Laaronpuron silta",
+  "code": "O-2224",
+  "lat": 63.91517,
+  "lon": 28.38495,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Leväjoen silta",
+  "code": "O-2225",
+  "lat": 63.9484,
+  "lon": 28.37477,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lahnasjoen silta",
+  "code": "O-5213",
+  "lat": 64.12634,
+  "lon": 28.07325,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Jormasjoen silta",
+  "code": "O-2776",
+  "lat": 64.12789,
+  "lon": 28.09098,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Juuanjoen silta",
+  "code": "O-5214",
+  "lat": 64.15089,
+  "lon": 27.94617,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kontinjoen silta",
+  "code": "O-2774",
+  "lat": 64.1564,
+  "lon": 27.85457,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Pihlajapuron silta",
+  "code": "O-2775",
+  "lat": 64.15896,
+  "lon": 27.84083,
+  "roads": [
+   "6"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lahdenvaaran putkisilta",
+  "code": "SK-5309",
+  "lat": 62.2208,
+  "lon": 30.39405,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Ruostepuron silta",
+  "code": "SK-1640",
+  "lat": 62.25994,
+  "lon": 30.25409,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Saarekkeenpuron silta",
+  "code": "SK-1641",
+  "lat": 62.28698,
+  "lon": 30.20047,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Siilaisen putkisilta",
+  "code": "SK-5004",
+  "lat": 62.62097,
+  "lon": 29.72291,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Höytiäisen kanavasilta",
+  "code": "SK-1807",
+  "lat": 62.63392,
+  "lon": 29.67916,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Höytiäisen kanavasilta",
+  "code": "SK-1777",
+  "lat": 62.63406,
+  "lon": 29.67934,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Taipaleenjoen silta II",
+  "code": "SK-1052",
+  "lat": 62.63846,
+  "lon": 29.22063,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lietukanjoen silta",
+  "code": "SK-1051",
+  "lat": 62.6992,
+  "lon": 29.00547,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Ohtaansalmen silta",
+  "code": "SK-2000",
+  "lat": 62.77415,
+  "lon": 28.69509,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Tulisalmen silta",
+  "code": "SK-174",
+  "lat": 62.79693,
+  "lon": 28.53581,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Virinjoen silta",
+  "code": "SK-173",
+  "lat": 62.8781,
+  "lon": 28.2889,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Välisalmen silta",
+  "code": "SK-178",
+  "lat": 62.8891,
+  "lon": 28.24341,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kivisillansalmen silta",
+  "code": "SK-176",
+  "lat": 62.91813,
+  "lon": 28.12822,
+  "roads": [
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Jännevirran silta",
+  "code": "SK-1",
+  "lat": 62.97104,
+  "lon": 27.83018,
+  "roads": [
+   "16340",
+   "70009",
+   "86340",
+   "9"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Mulajärven silta",
+  "code": "SK-814",
+  "lat": 62.30003,
+  "lon": 27.83295,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Taipaleen kanavan läppäsilta I",
+  "code": "SK-20",
+  "lat": 62.30399,
+  "lon": 27.91118,
+  "roads": [
+   "23",
+   "70023"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Joutenlahden silta",
+  "code": "SK-860",
+  "lat": 62.30955,
+  "lon": 27.87127,
+  "roads": [
+   "23",
+   "70023"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kämärinkosken silta",
+  "code": "SK-5815",
+  "lat": 62.31111,
+  "lon": 27.90351,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Ämmäkosken silta",
+  "code": "SK-18",
+  "lat": 62.3128,
+  "lon": 27.90045,
+  "roads": [
+   "23",
+   "70023"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Pirtinvirran silta",
+  "code": "SK-842",
+  "lat": 62.31308,
+  "lon": 27.88235,
+  "roads": [
+   "23",
+   "70023"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Rukkuneenlahden silta",
+  "code": "SK-700",
+  "lat": 62.32144,
+  "lon": 28.00561,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Miehalanjoen silta",
+  "code": "SK-5034",
+  "lat": 62.36969,
+  "lon": 28.10449,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Tyrynlahden silta",
+  "code": "SK-552",
+  "lat": 62.4232,
+  "lon": 28.21724,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Maajoen silta",
+  "code": "SK-553",
+  "lat": 62.43852,
+  "lon": 28.25064,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Rummukkajoen silta",
+  "code": "SK-554",
+  "lat": 62.4723,
+  "lon": 28.32497,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Haapasenjärven silta",
+  "code": "SK-555",
+  "lat": 62.47828,
+  "lon": 28.33136,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Saarisenjoen silta",
+  "code": "SK-556",
+  "lat": 62.48556,
+  "lon": 28.36454,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Karvion silta",
+  "code": "SK-2438",
+  "lat": 62.51435,
+  "lon": 28.64184,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Somerjoen silta",
+  "code": "SK-2318",
+  "lat": 62.51998,
+  "lon": 29.01327,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lumpeikkojoen silta",
+  "code": "SK-5723",
+  "lat": 62.52495,
+  "lon": 28.74172,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Jyrkänpuron silta",
+  "code": "SK-5703",
+  "lat": 62.53312,
+  "lon": 28.50576,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Korpijoen putkisilta",
+  "code": "SK-5323",
+  "lat": 62.55683,
+  "lon": 29.14026,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Sahinpuron putkisilta",
+  "code": "SK-5324",
+  "lat": 62.58338,
+  "lon": 29.20614,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Hepolahden silta",
+  "code": "SK-1592",
+  "lat": 62.61966,
+  "lon": 29.29344,
+  "roads": [
+   "23"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Rajajoen silta",
+  "code": "SK-1648",
+  "lat": 62.10639,
+  "lon": 29.68875,
+  "roads": [
+   "71"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kuusojan silta",
+  "code": "SK-1131",
+  "lat": 62.76197,
+  "lon": 30.03614,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Louhiojan silta",
+  "code": "SK-1132",
+  "lat": 62.80244,
+  "lon": 30.11998,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Uimasalmen silta",
+  "code": "SK-1148",
+  "lat": 62.90732,
+  "lon": 30.2266,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Uimaharjun putkisilta",
+  "code": "SK-5489",
+  "lat": 62.9127,
+  "lon": 30.24645,
+  "roads": [
+   "70073",
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Honkajoen putkisilta",
+  "code": "SK-5821",
+  "lat": 62.91428,
+  "lon": 30.25145,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Ihantojoen silta",
+  "code": "SK-1430",
+  "lat": 63.04843,
+  "lon": 30.12617,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Siikajoen silta",
+  "code": "SK-1431",
+  "lat": 63.16295,
+  "lon": 30.14219,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Sutkalammen kanavan silta",
+  "code": "SK-1432",
+  "lat": 63.24939,
+  "lon": 30.13407,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Sokojoen silta",
+  "code": "SK-1512",
+  "lat": 63.30469,
+  "lon": 30.04767,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lieksanjoen silta",
+  "code": "SK-1546",
+  "lat": 63.31252,
+  "lon": 30.03395,
+  "roads": [
+   "70073",
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Jamalinjoen silta",
+  "code": "SK-1585",
+  "lat": 63.34081,
+  "lon": 29.94887,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Heinäsuonpuron putkisilta",
+  "code": "SK-5464",
+  "lat": 63.46628,
+  "lon": 29.66503,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Viekijärven silta",
+  "code": "SK-1602",
+  "lat": 63.47413,
+  "lon": 29.6325,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Savipuron putkisilta",
+  "code": "SK-241",
+  "lat": 63.5399,
+  "lon": 29.29785,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Hanhipuron putkisilta",
+  "code": "SK-5012",
+  "lat": 63.54121,
+  "lon": 29.28105,
+  "roads": [
+   "73"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Jänisjoen silta",
+  "code": "SK-1545",
+  "lat": 62.55465,
+  "lon": 30.51425,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Hepopuron putkisilta",
+  "code": "SK-5317",
+  "lat": 62.55882,
+  "lon": 30.21362,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kivilammin silta",
+  "code": "SK-1517",
+  "lat": 62.56356,
+  "lon": 30.22971,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Heinälammin silta",
+  "code": "SK-1518",
+  "lat": 62.56451,
+  "lon": 30.25273,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kissapuron putkisilta",
+  "code": "SK-5764",
+  "lat": 62.56551,
+  "lon": 30.27436,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Punapuron silta",
+  "code": "SK-5441",
+  "lat": 62.57261,
+  "lon": 30.66236,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kuuspuron silta",
+  "code": "SK-1170",
+  "lat": 62.57281,
+  "lon": 30.43765,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Iiksenjoen silta",
+  "code": "SK-1637",
+  "lat": 62.59908,
+  "lon": 29.8621,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Jukajoen silta",
+  "code": "SK-1166",
+  "lat": 62.60016,
+  "lon": 30.03377,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Mustanpuron silta",
+  "code": "SK-1173",
+  "lat": 62.62471,
+  "lon": 30.87587,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Riihijoen silta",
+  "code": "SK-1174",
+  "lat": 62.63741,
+  "lon": 30.91162,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Pötönjoen silta",
+  "code": "SK-1246",
+  "lat": 62.67243,
+  "lon": 30.94741,
+  "roads": [
+   "74"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Pajukosken silta",
+  "code": "SK-827",
+  "lat": 63.13515,
+  "lon": 27.8265,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kauppisenjoen silta",
+  "code": "SK-5781",
+  "lat": 63.1409,
+  "lon": 27.93269,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kumpusensalmen silta",
+  "code": "SK-193",
+  "lat": 63.1621,
+  "lon": 28.07003,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lastukosken silta",
+  "code": "SK-196",
+  "lat": 63.20322,
+  "lon": 28.27684,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lastukosken kanavan silta",
+  "code": "SK-197",
+  "lat": 63.20348,
+  "lon": 28.27782,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Välijoen silta",
+  "code": "SK-550",
+  "lat": 63.26656,
+  "lon": 28.30811,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Keyritynjoen silta",
+  "code": "SK-551",
+  "lat": 63.33689,
+  "lon": 28.44726,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Löytösenpuron silta",
+  "code": "SK-5051",
+  "lat": 63.35222,
+  "lon": 28.5008,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lutikkapuron silta",
+  "code": "SK-676",
+  "lat": 63.36836,
+  "lon": 28.58214,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Saukkopuron silta",
+  "code": "SK-5050",
+  "lat": 63.36979,
+  "lon": 28.613,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lapinjoen silta",
+  "code": "SK-444",
+  "lat": 63.37913,
+  "lon": 28.66334,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kaitainjoen silta",
+  "code": "SK-445",
+  "lat": 63.38613,
+  "lon": 28.71044,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Palojoen silta",
+  "code": "SK-1088",
+  "lat": 63.3961,
+  "lon": 28.75497,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Mustanpuron silta",
+  "code": "SK-1092",
+  "lat": 63.52051,
+  "lon": 28.87628,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Vastimonjoen putkisilta",
+  "code": "SK-5418",
+  "lat": 63.53578,
+  "lon": 28.93677,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kuokkastenkosken silta",
+  "code": "SK-1124",
+  "lat": 63.54672,
+  "lon": 28.95088,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Akkosalmen silta",
+  "code": "SK-1642",
+  "lat": 63.558,
+  "lon": 29.13754,
+  "roads": [
+   "70075",
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kuohatinjoen silta",
+  "code": "SK-1331",
+  "lat": 63.62358,
+  "lon": 29.18979,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kuusipuron silta",
+  "code": "SK-1332",
+  "lat": 63.66024,
+  "lon": 29.21958,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Palojoen silta",
+  "code": "SK-1335",
+  "lat": 63.70367,
+  "lon": 29.33427,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Häkkisenpuron putkisilta",
+  "code": "O-5248",
+  "lat": 63.88757,
+  "lon": 29.50037,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Juurikkajoen silta",
+  "code": "O-2379",
+  "lat": 63.92633,
+  "lon": 29.55547,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Riihipuron silta",
+  "code": "O-5216",
+  "lat": 63.93716,
+  "lon": 29.58183,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Raatepuron silta",
+  "code": "O-2381",
+  "lat": 63.93956,
+  "lon": 29.59903,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Latvajoen silta",
+  "code": "O-5217",
+  "lat": 63.95221,
+  "lon": 29.62477,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lamminpuron silta",
+  "code": "O-5218",
+  "lat": 63.9731,
+  "lon": 29.64648,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Varastinpuron silta",
+  "code": "O-5245",
+  "lat": 64.00366,
+  "lon": 29.62868,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Jyrkänkosken silta",
+  "code": "O-2386",
+  "lat": 64.03533,
+  "lon": 29.57589,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Särkipuron silta",
+  "code": "O-2387",
+  "lat": 64.08692,
+  "lon": 29.48275,
+  "roads": [
+   "75"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Sappulansalmen silta",
+  "code": "SK-2322",
+  "lat": 62.36623,
+  "lon": 28.88038,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Hiekkajoen silta",
+  "code": "SK-2324",
+  "lat": 62.36794,
+  "lon": 28.98473,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Sepänsalmen silta",
+  "code": "SK-2323",
+  "lat": 62.36889,
+  "lon": 28.96841,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Hynnilänsalmen silta",
+  "code": "SK-2470",
+  "lat": 62.39335,
+  "lon": 28.74961,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kermankosken silta",
+  "code": "SK-2321",
+  "lat": 62.39607,
+  "lon": 28.74561,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Suurjoen silta",
+  "code": "SK-1038",
+  "lat": 62.42684,
+  "lon": 29.20605,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kalliolahden silta",
+  "code": "SK-5615",
+  "lat": 62.44755,
+  "lon": 28.37534,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kaunissaaren silta",
+  "code": "SK-1037",
+  "lat": 62.47996,
+  "lon": 29.32336,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Onkisalmen silta",
+  "code": "SK-1655",
+  "lat": 62.48023,
+  "lon": 29.33388,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Siikasalmen silta",
+  "code": "SK-1036",
+  "lat": 62.51403,
+  "lon": 29.36149,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Kalstin silta",
+  "code": "SK-1035",
+  "lat": 62.52702,
+  "lon": 29.38422,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Nivan silta",
+  "code": "SK-5425",
+  "lat": 62.5427,
+  "lon": 29.4253,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Honkapuron silta",
+  "code": "SK-1039",
+  "lat": 62.6057,
+  "lon": 29.53156,
+  "roads": [
+   "476"
+  ],
+  "rails": [],
+  "type": "water"
+ },
+ {
+  "name": "Lahdenpuron ratasilta",
+  "code": "SK-2958",
+  "lat": 62.23128,
+  "lon": 30.38589,
+  "roads": [],
+  "rails": [
+   "751"
+  ],
+  "type": "water"
+ },
+ {
+  "name": "Suvantosilta",
+  "code": "SK-1644",
+  "lat": 62.5965,
+  "lon": 29.76786,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "water"
+ },
+ {
+  "name": "Hukkasenjoen alikulkusilta",
+  "code": "O-4527",
+  "lat": 64.41229,
+  "lon": 28.58205,
+  "roads": [],
+  "rails": [
+   "554"
+  ],
+  "type": "water"
+ },
+ {
+  "name": "Enojoen ratasilta",
+  "code": "SK-2811",
+  "lat": 62.12223,
+  "lon": 27.9214,
+  "roads": [],
+  "rails": [
+   "014"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Joroisvirran ratasilta",
+  "code": "SK-2810",
+  "lat": 62.16331,
+  "lon": 27.83585,
+  "roads": [],
+  "rails": [
+   "014"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Noittanojan ratasilta",
+  "code": "SK-2957",
+  "lat": 62.17596,
+  "lon": 30.56012,
+  "roads": [],
+  "rails": [
+   "751"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kollinjoen ratasilta",
+  "code": "SK-2869",
+  "lat": 62.25683,
+  "lon": 27.79642,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kuvansinjoen ratasilta",
+  "code": "SK-2872",
+  "lat": 62.28143,
+  "lon": 27.87256,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Ruostepuron ratasilta",
+  "code": "SK-2959",
+  "lat": 62.28519,
+  "lon": 30.25417,
+  "roads": [],
+  "rails": [
+   "751"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Ristisaarenjoen ratasilta",
+  "code": "SK-2960",
+  "lat": 62.29624,
+  "lon": 30.20599,
+  "roads": [],
+  "rails": [
+   "751"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Taipaleen vanhan kanavan silta",
+  "code": "SK-2875",
+  "lat": 62.30171,
+  "lon": 27.91187,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Taipaleen kanavan ratasilta",
+  "code": "SK-2623",
+  "lat": 62.30233,
+  "lon": 27.90936,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Siitinselän ratasilta 2",
+  "code": "SK-2874",
+  "lat": 62.30392,
+  "lon": 27.90196,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Siitinselän ratasilta 1",
+  "code": "SK-2873",
+  "lat": 62.30663,
+  "lon": 27.89043,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Pirtinvirran ratasilta (Varkauden kääntösilta)",
+  "code": "SK-2618",
+  "lat": 62.30752,
+  "lon": 27.88732,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kangaslammen ratasilta",
+  "code": "SK-2880",
+  "lat": 62.33405,
+  "lon": 28.21062,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Huruslahden ratasilta",
+  "code": "SK-2918",
+  "lat": 62.33704,
+  "lon": 27.84994,
+  "roads": [],
+  "rails": [
+   "611"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Sääksjärven ratasilta",
+  "code": "SK-2881",
+  "lat": 62.34354,
+  "lon": 28.29918,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Lylynlahden ratasilta",
+  "code": "SK-2882",
+  "lat": 62.34884,
+  "lon": 28.33022,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Joki-keskisen ratasilta",
+  "code": "SK-3317",
+  "lat": 62.36873,
+  "lon": 28.4597,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Sepänsalmen ratasilta",
+  "code": "SK-2891",
+  "lat": 62.36895,
+  "lon": 28.9684,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Sappulanlahden ratasilta",
+  "code": "SK-2890",
+  "lat": 62.37134,
+  "lon": 28.87527,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Heinäjoen ratasilta",
+  "code": "SK-2892",
+  "lat": 62.37309,
+  "lon": 28.98275,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kaidankosken ratasilta",
+  "code": "SK-2884",
+  "lat": 62.37448,
+  "lon": 28.49333,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Polvijärven ratasilta",
+  "code": "SK-2886",
+  "lat": 62.38171,
+  "lon": 28.60145,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Vääräkosken ratasilta",
+  "code": "SK-2888",
+  "lat": 62.38894,
+  "lon": 28.70702,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Yläjoen ratasilta",
+  "code": "SK-2893",
+  "lat": 62.39529,
+  "lon": 29.04613,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Lotokanjoen ratasilta",
+  "code": "SK-2756",
+  "lat": 62.41347,
+  "lon": 29.99787,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Hammaslahden ratasilta",
+  "code": "SK-2757",
+  "lat": 62.45322,
+  "lon": 29.92437,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Jänisjoen ratasilta",
+  "code": "SK-2894",
+  "lat": 62.49628,
+  "lon": 29.03971,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kytöojan ratasilta",
+  "code": "SK-2895",
+  "lat": 62.50431,
+  "lon": 29.04379,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Vilvasjoen 1 ratasilta",
+  "code": "SK-2931",
+  "lat": 62.52041,
+  "lon": 30.57087,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Vilvasjoen 2 ratasilta",
+  "code": "SK-2932",
+  "lat": 62.5232,
+  "lon": 30.58705,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Jänisjoen ratasilta",
+  "code": "SK-2930",
+  "lat": 62.52971,
+  "lon": 30.47743,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Honkapuron ratasilta",
+  "code": "SK-2929",
+  "lat": 62.53156,
+  "lon": 30.43267,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Myllypuron ratasilta",
+  "code": "SK-2928",
+  "lat": 62.54462,
+  "lon": 30.34363,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Haapajoen ratasilta",
+  "code": "SK-2758",
+  "lat": 62.55546,
+  "lon": 29.81852,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Pien kastelammen ratasilta",
+  "code": "SK-2924",
+  "lat": 62.55854,
+  "lon": 30.21414,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kissapuron ratasilta",
+  "code": "SK-2923",
+  "lat": 62.55909,
+  "lon": 30.08321,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Hotinjoen ratasilta",
+  "code": "SK-2933",
+  "lat": 62.55943,
+  "lon": 30.64908,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kissajoen ratasilta",
+  "code": "SK-2927",
+  "lat": 62.55982,
+  "lon": 30.27751,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Mustapuron ratasilta",
+  "code": "SK-2925",
+  "lat": 62.56308,
+  "lon": 30.22962,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Viesimojoen ratasilta",
+  "code": "SK-2926",
+  "lat": 62.56383,
+  "lon": 30.25303,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Herajärven ratasilta",
+  "code": "SK-2934",
+  "lat": 62.57098,
+  "lon": 30.66202,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kypäräjoen ratasilta",
+  "code": "SK-2922",
+  "lat": 62.57385,
+  "lon": 29.99165,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Iiksenjoen ratasilta",
+  "code": "SK-2921",
+  "lat": 62.5749,
+  "lon": 29.90517,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Joensuun aseman viemäri",
+  "code": "SK-2763",
+  "lat": 62.60079,
+  "lon": 29.78007,
+  "roads": [],
+  "rails": [
+   "006",
+   "006141"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Pielisjoen ratasilta",
+  "code": "SK-2622",
+  "lat": 62.60668,
+  "lon": 29.77957,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Siilaisenpuron ratasilta",
+  "code": "SK-2941",
+  "lat": 62.62816,
+  "lon": 29.72669,
+  "roads": [],
+  "rails": [
+   "731"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Höytiäisen kanavan ratasilta",
+  "code": "SK-2943",
+  "lat": 62.63977,
+  "lon": 29.68398,
+  "roads": [],
+  "rails": [
+   "731"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Sysmäjoen ratasilta",
+  "code": "SK-2897",
+  "lat": 62.64184,
+  "lon": 29.18621,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Mustajoen ratasilta",
+  "code": "SK-2937",
+  "lat": 62.64361,
+  "lon": 30.87586,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Taipaleenjoen ratasilta",
+  "code": "SK-2898",
+  "lat": 62.64618,
+  "lon": 29.21943,
+  "roads": [],
+  "rails": [
+   "024"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Taipaleenjoen ratasilta",
+  "code": "SK-2955",
+  "lat": 62.64635,
+  "lon": 29.21941,
+  "roads": [],
+  "rails": [
+   "731"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Riihijoen ratasilta",
+  "code": "SK-2938",
+  "lat": 62.65184,
+  "lon": 30.89825,
+  "roads": [],
+  "rails": [
+   "722"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Myllypuron ratasilta",
+  "code": "SK-2768",
+  "lat": 62.73455,
+  "lon": 29.89589,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kuusojan ratasilta",
+  "code": "SK-2770",
+  "lat": 62.75344,
+  "lon": 30.04477,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Louhiojan ratasilta",
+  "code": "SK-2771",
+  "lat": 62.80222,
+  "lon": 30.12044,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Suojoen ratasilta",
+  "code": "SK-2857",
+  "lat": 62.82822,
+  "lon": 28.89494,
+  "roads": [],
+  "rails": [
+   "017"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Sirkanpuron ratasilta",
+  "code": "SK-2773",
+  "lat": 62.84739,
+  "lon": 30.20306,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Venäjänpuron ratasilta",
+  "code": "SK-2774",
+  "lat": 62.8777,
+  "lon": 30.20586,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Rahkeenpuron ratasilta",
+  "code": "SK-2775",
+  "lat": 62.89638,
+  "lon": 30.21191,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Rauanjoen ratasilta",
+  "code": "SK-2856",
+  "lat": 62.89666,
+  "lon": 28.74899,
+  "roads": [],
+  "rails": [
+   "017"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Uimasalmen ratasilta",
+  "code": "SK-2621",
+  "lat": 62.9076,
+  "lon": 30.22642,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Meltusvirran ratasilta",
+  "code": "SK-2855",
+  "lat": 62.93171,
+  "lon": 28.65924,
+  "roads": [],
+  "rails": [
+   "017"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Savipuron ratasilta",
+  "code": "SK-3092",
+  "lat": 62.97949,
+  "lon": 28.51569,
+  "roads": [],
+  "rails": [
+   "017"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kattilapuron ratasilta",
+  "code": "SK-2776",
+  "lat": 62.98319,
+  "lon": 30.15502,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Hupelinpuron ratasilta",
+  "code": "SK-2777",
+  "lat": 63.00065,
+  "lon": 30.13586,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kyyrönpuron ratasilta",
+  "code": "SK-2778",
+  "lat": 63.03902,
+  "lon": 30.11531,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Virraskosken ratasilta",
+  "code": "SK-2852",
+  "lat": 63.0473,
+  "lon": 28.31518,
+  "roads": [],
+  "rails": [
+   "017"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Ihantopuron ratasilta",
+  "code": "SK-2779",
+  "lat": 63.04952,
+  "lon": 30.11861,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Haisun kaivoksen ratasilta",
+  "code": "SK-2780",
+  "lat": 63.05314,
+  "lon": 30.1169,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Koivusojan ratasilta",
+  "code": "SK-2781",
+  "lat": 63.0709,
+  "lon": 30.09774,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Lammensalmen ratasilta",
+  "code": "SK-2850",
+  "lat": 63.09947,
+  "lon": 28.24207,
+  "roads": [],
+  "rails": [
+   "017"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Pahkasalmen ratasilta",
+  "code": "SK-2849",
+  "lat": 63.11298,
+  "lon": 28.22072,
+  "roads": [],
+  "rails": [
+   "017"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kattilajoen ratasilta",
+  "code": "SK-2782",
+  "lat": 63.13824,
+  "lon": 30.00298,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Ventojoen ratasilta",
+  "code": "SK-2844",
+  "lat": 63.14358,
+  "lon": 27.81571,
+  "roads": [],
+  "rails": [
+   "017"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Vuonissalmen ratasilta",
+  "code": "SK-2783",
+  "lat": 63.14575,
+  "lon": 29.99633,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Siikajoen ratasilta",
+  "code": "SK-2784",
+  "lat": 63.20631,
+  "lon": 30.02809,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Lehmipuron ratasilta",
+  "code": "SK-2785",
+  "lat": 63.2246,
+  "lon": 30.05603,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Lahdenperänpuron ratasilta",
+  "code": "SK-2786",
+  "lat": 63.25336,
+  "lon": 30.11536,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Pokronlammen ratasilta",
+  "code": "SK-2787",
+  "lat": 63.30068,
+  "lon": 30.04525,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Lieksanjoen ratasilta",
+  "code": "SK-2788",
+  "lat": 63.309,
+  "lon": 30.02615,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Varasjoen ratasilta",
+  "code": "SK-2789",
+  "lat": 63.31399,
+  "lon": 30.02446,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Jamalinjoen ratasilta",
+  "code": "SK-2790",
+  "lat": 63.33589,
+  "lon": 29.94031,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Halinjoen ratasilta",
+  "code": "SK-2791",
+  "lat": 63.36201,
+  "lon": 29.77146,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Myllypuron ratasilta",
+  "code": "SK-5476",
+  "lat": 63.4101,
+  "lon": 29.63166,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Konnapuron ratasilta",
+  "code": "SK-2793",
+  "lat": 63.4376,
+  "lon": 29.50414,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Mätäsvaaran kaivoksen siirtokuilu rs",
+  "code": "SK-2792",
+  "lat": 63.44158,
+  "lon": 29.58817,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Jurttipuron ratasilta",
+  "code": "SK-3316",
+  "lat": 63.46735,
+  "lon": 29.41986,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Joutenjoen ratasilta",
+  "code": "SK-2794",
+  "lat": 63.4937,
+  "lon": 29.33505,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kuikkapuron ratasilta",
+  "code": "SK-2795",
+  "lat": 63.51669,
+  "lon": 29.27266,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Mikonsalmen ratasilta",
+  "code": "SK-2796",
+  "lat": 63.53983,
+  "lon": 29.15495,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Vinkerlahden ratasilta",
+  "code": "SK-2799",
+  "lat": 63.5496,
+  "lon": 29.12127,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Valtimonojan 1. ratasilta",
+  "code": "SK-2802",
+  "lat": 63.61591,
+  "lon": 28.94886,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Vuoripuron ratasilta",
+  "code": "SK-2803",
+  "lat": 63.65424,
+  "lon": 28.8867,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Valtimonjoen ratasilta",
+  "code": "SK-2804",
+  "lat": 63.66778,
+  "lon": 28.86349,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Halmejoen ratasilta",
+  "code": "SK-2805",
+  "lat": 63.72755,
+  "lon": 28.73496,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Verkkojoen ratasilta",
+  "code": "SK-2806",
+  "lat": 63.78554,
+  "lon": 28.6472,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kokkojoen 2. ratasilta",
+  "code": "SK-2807",
+  "lat": 63.79957,
+  "lon": 28.61849,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kokkojoen 1 ratasilta",
+  "code": "SK-2808",
+  "lat": 63.86507,
+  "lon": 28.51671,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Rommakkojoen ll ratasilta",
+  "code": "O-4564",
+  "lat": 63.91904,
+  "lon": 28.46498,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Rommakkojoen l ratasilta",
+  "code": "O-4565",
+  "lat": 63.93996,
+  "lon": 28.4321,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kiantojoen ratasilta",
+  "code": "O-4566",
+  "lat": 63.95891,
+  "lon": 28.41921,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Heinäjoen ratasilta",
+  "code": "O-4567",
+  "lat": 63.9888,
+  "lon": 28.40821,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Viitapuron ratasilta",
+  "code": "O-5256",
+  "lat": 63.98908,
+  "lon": 27.95813,
+  "roads": [],
+  "rails": [
+   "558"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kivijoen ratasilta",
+  "code": "O-4568",
+  "lat": 64.01822,
+  "lon": 28.37026,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Juurikkapuron ratasilta",
+  "code": "O-4569",
+  "lat": 64.05719,
+  "lon": 28.30841,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Rahkopuron ratasilta",
+  "code": "O-4570",
+  "lat": 64.09915,
+  "lon": 28.31202,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Lahnasjoen ratasilta (teräsputki)",
+  "code": "O-4736",
+  "lat": 64.12455,
+  "lon": 28.0748,
+  "roads": [],
+  "rails": [
+   "533"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Lahnasjoen ratasilta (terässilta)",
+  "code": "O-4737",
+  "lat": 64.12459,
+  "lon": 28.07472,
+  "roads": [],
+  "rails": [
+   "533"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Jormasjoen ratasilta",
+  "code": "O-4735",
+  "lat": 64.126,
+  "lon": 28.09686,
+  "roads": [],
+  "rails": [
+   "533"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Tenetinsalmen ll ratasilta",
+  "code": "O-4571",
+  "lat": 64.15645,
+  "lon": 28.2726,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Tenetinsalmen l ratasilta",
+  "code": "O-4572",
+  "lat": 64.15719,
+  "lon": 28.27304,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Aunojoen ratasilta",
+  "code": "O-4573",
+  "lat": 64.18582,
+  "lon": 28.29613,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Vihtamojoen ratasilta",
+  "code": "O-4574",
+  "lat": 64.20976,
+  "lon": 28.28831,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Särämäjoen ratasilta",
+  "code": "O-4561",
+  "lat": 64.26512,
+  "lon": 27.84525,
+  "roads": [],
+  "rails": [
+   "005"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Alajoen ratasilta",
+  "code": "O-4576",
+  "lat": 64.29997,
+  "lon": 28.19223,
+  "roads": [],
+  "rails": [
+   "006"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Miesjoen ratasilta",
+  "code": "O-4753",
+  "lat": 64.35966,
+  "lon": 28.10506,
+  "roads": [],
+  "rails": [
+   "552"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Laajajoen ratasilta 1",
+  "code": "O-4754",
+  "lat": 64.36529,
+  "lon": 28.10895,
+  "roads": [],
+  "rails": [
+   "552"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Laajajoen ratasilta 2",
+  "code": "O-4755",
+  "lat": 64.37112,
+  "lon": 28.1307,
+  "roads": [],
+  "rails": [
+   "554"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Miesjoen ratasilta",
+  "code": "O-4734",
+  "lat": 64.37615,
+  "lon": 28.03281,
+  "roads": [],
+  "rails": [
+   "531"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Mieslahdenojan ratasilta",
+  "code": "O-4815",
+  "lat": 64.37891,
+  "lon": 28.01419,
+  "roads": [],
+  "rails": [
+   "531"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Metelinojan ratasilta",
+  "code": "O-4732",
+  "lat": 64.38488,
+  "lon": 27.97384,
+  "roads": [],
+  "rails": [
+   "531"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Sysipuron rautatiesilta",
+  "code": "O-4756",
+  "lat": 64.39847,
+  "lon": 28.42508,
+  "roads": [],
+  "rails": [
+   "554"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Kiehimänjoen ratasilta",
+  "code": "O-4730",
+  "lat": 64.40319,
+  "lon": 27.84396,
+  "roads": [],
+  "rails": [
+   "531"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Hiisijoen rautatiesilta",
+  "code": "O-4757",
+  "lat": 64.40739,
+  "lon": 28.48149,
+  "roads": [],
+  "rails": [
+   "554"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Tuomaanjoen rautatiesilta",
+  "code": "O-4758",
+  "lat": 64.40963,
+  "lon": 28.5299,
+  "roads": [],
+  "rails": [
+   "554"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Heikkisenjoen ratasilta",
+  "code": "O-4738",
+  "lat": 64.47546,
+  "lon": 28.15379,
+  "roads": [],
+  "rails": [
+   "552"
+  ],
+  "type": "rail"
+ },
+ {
+  "name": "Pykäläjoen ratasilta",
+  "code": "O-4759",
+  "lat": 64.48728,
+  "lon": 29.55483,
+  "roads": [],
+  "rails": [
+   "554"
+  ],
+  "type": "rail"
+ }
+]

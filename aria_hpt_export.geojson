@@ -1,0 +1,364 @@
+{
+  "type": "FeatureCollection",
+  "name": "ARIA HPT LIST — AO NORTH KARELIA",
+  "description": "High Payoff Target list and algorithm-discovered network chokepoints. Strategic-baseline targets (KNOWN_FIXED_TARGETS) re-ranked by Physarum flow at their location; algorithm-discovered articulation bridges from network analysis.",
+  "generated": "2026-05-16",
+  "method": "Hybrid: validated domain-knowledge targets + Physarum slime-mold network flow analysis (Tero et al. 2010) + articulation-bridge detection via nearest-alternative search within 15km",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 1, "score": 1.000,
+        "name": "Karelia Brigade — Kontiolahti garrison",
+        "role": "MILITARY INSTALLATION",
+        "category": "FORCE STRUCTURE",
+        "threat": "DENY / NEUTRALISE",
+        "priority": "HIGH",
+        "source": "validated strategic baseline",
+        "rationale": "Finnish Army Karelia Brigade HQ and barracks — the primary combat formation defending North Karelia. Basing node for armoured infantry, artillery and logistics. Neutralising it collapses organised Finnish resistance in the AO."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.8470, 62.7680] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 2, "score": 0.786,
+        "name": "Joensuu Airport (EFJO)",
+        "role": "AIRFIELD / AERODROME",
+        "category": "AIR OPERATIONS",
+        "threat": "SEIZE / DENY",
+        "priority": "HIGH",
+        "source": "validated strategic baseline",
+        "rationale": "Only airport in North Karelia. Enables close air support, air CASEVAC and rapid resupply for the entire AO. Without it, all air operations must fly from Kuopio (120km) or Tampere (350km), drastically increasing response times."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.6075, 62.6629] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 3, "score": 0.648,
+        "name": "Pekkalan silta — E63/E75 Pielisjoki crossing",
+        "role": "BRIDGE / CHOKEPOINT",
+        "category": "KEY TERRAIN",
+        "threat": "DENY / DEMOLISH",
+        "priority": "HIGH",
+        "source": "validated strategic baseline",
+        "rationale": "Primary Pielisjoki crossing on the E63/E75 motorway through Joensuu — the main artery bridge for the entire city. Destruction severs all north-south logistics through North Karelia, isolating Lieksa and Nurmes from Joensuu and southern Finland."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.7919, 62.6073] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 4, "score": 0.647,
+        "name": "Pohjois-Karjalan keskussairaala",
+        "role": "CASEVAC NODE",
+        "category": "MEDICAL",
+        "threat": "PROTECT / EXPLOIT",
+        "priority": "HIGH",
+        "source": "validated strategic baseline",
+        "rationale": "Primary regional hospital for all of North Karelia — the only Level 2+ trauma facility in the AO. Handles every mass-casualty intake. Loss forces 100km+ medevac to Kuopio or Mikkeli, critically degrading force sustainment."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.7784, 62.5920] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 5, "score": 0.588,
+        "name": "E63/E75 motorway bridge — Joensuu south",
+        "role": "BRIDGE / CHOKEPOINT",
+        "category": "KEY TERRAIN",
+        "threat": "DENY / DEMOLISH",
+        "priority": "HIGH",
+        "source": "validated strategic baseline",
+        "rationale": "Motorway bridge on Rd 6/9 (E63/E75). Sole crossing in this sector — destruction isolates the southern approach to Joensuu and blocks the primary reinforcement corridor from Imatra/Lappeenranta."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.8403, 62.5516] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 6, "score": 0.527,
+        "name": "Imatrantie bridge — E63 south corridor",
+        "role": "BRIDGE / CHOKEPOINT",
+        "category": "KEY TERRAIN",
+        "threat": "DENY / DEMOLISH",
+        "priority": "HIGH",
+        "source": "validated strategic baseline",
+        "rationale": "Southern E63/E75 corridor crossing. Controls primary southbound reinforcement and resupply route. Proximity to the Russian border (18km) makes it a likely early-conflict target."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.9575, 62.4768] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 7, "score": 0.523,
+        "name": "Niirala border crossing (E63/Rd 6)",
+        "role": "BORDER CROSSING",
+        "category": "ACCESS CONTROL",
+        "threat": "DENY / CONTROL",
+        "priority": "HIGH",
+        "source": "validated strategic baseline",
+        "rationale": "Primary road border crossing between Finland and Russia on the E63. Controls all cross-border vehicle movement. Seizure gives adversary a permanent foothold and a direct supply line from Russian territory into the AO."
+      },
+      "geometry": { "type": "Point", "coordinates": [30.6375, 62.2090] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 8, "score": 0.503,
+        "name": "Rantakylän terveysasema",
+        "role": "CASEVAC NODE",
+        "category": "MEDICAL",
+        "threat": "PROTECT / EXPLOIT",
+        "priority": "MEDIUM",
+        "source": "validated strategic baseline",
+        "rationale": "CASEVAC node in Joensuu metropolitan sector. Co-located with main population centre — overflow from central hospital and primary trauma intake for northwest Joensuu."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.8163, 62.6141] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 9, "score": 0.503,
+        "name": "Lehmon terveysasema",
+        "role": "CASEVAC NODE",
+        "category": "MEDICAL",
+        "threat": "PROTECT / EXPLOIT",
+        "priority": "MEDIUM",
+        "source": "validated strategic baseline",
+        "rationale": "CASEVAC node north of Joensuu serving the Kontiolahti sector (co-located with Karelia Brigade garrison). Loss forces medevac through Joensuu, increasing transit time for forward-positioned units."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.8124, 62.6599] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 10, "score": 0.501,
+        "name": "Joensuu rail junction",
+        "role": "RAIL LOC JUNCTION",
+        "category": "LOGISTICS",
+        "threat": "INTERDICT / CONTROL",
+        "priority": "MEDIUM",
+        "source": "validated strategic baseline",
+        "rationale": "Main rail junction for all of North Karelia. Heavy equipment, armoured vehicles, ammunition and fuel all transit through this node. Interdiction forces road-only resupply across the entire AO and severs heavy-logistics flow from southern Finland."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.7771, 62.6001] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 11, "score": 0.387,
+        "name": "Lieksa rail junction",
+        "role": "RAIL LOC JUNCTION",
+        "category": "LOGISTICS",
+        "threat": "INTERDICT / CONTROL",
+        "priority": "MEDIUM",
+        "source": "validated strategic baseline",
+        "rationale": "Rail junction serving the eastern Lieksa border sector. Controls supply throughput to forward positions near the border. Loss isolates eastern AO from rail resupply, forcing all heavy logistics onto Rd 73 (single paved axis)."
+      },
+      "geometry": { "type": "Point", "coordinates": [30.0155, 63.3184] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 12, "score": 0.186,
+        "name": "Kivisalmi crossing",
+        "role": "BRIDGE / CHOKEPOINT",
+        "category": "KEY TERRAIN",
+        "threat": "DENY / DEMOLISH",
+        "priority": "MEDIUM",
+        "source": "physarum-discovered",
+        "rationale": "Supply route crossing discovered by Physarum flow analysis. Destruction forces resupply convoys onto secondary roads, increasing transit time and exposure."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.5136, 62.3154] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 13, "score": 0.180,
+        "name": "Pyhäselkä southern crossing",
+        "role": "BRIDGE / CHOKEPOINT",
+        "category": "KEY TERRAIN",
+        "threat": "DENY / DEMOLISH",
+        "priority": "MEDIUM",
+        "source": "terrain-validated",
+        "rationale": "Southern Pyhäselkä crossing 20km from Joensuu. Terrain assessment: network criticality 0.76, replaceability 0.65. One alternate crossing within 30km. Near Russian border increases operational significance."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.6800, 62.4300] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rank": 14, "score": 0.052,
+        "name": "Pohjois-Karjalan Pelastuslaitos — Ilomantsin paloasema",
+        "role": "EMERGENCY RESPONSE NODE",
+        "category": "CASEVAC SUPPORT",
+        "threat": "PROTECT / EXPLOIT",
+        "priority": "LOW",
+        "source": "osm-discovered",
+        "rationale": "Regional fire and rescue post serving the Ilomantsi salient — co-located with border-zone civil support infrastructure. Provides initial response capability in eastern AO."
+      },
+      "geometry": { "type": "Point", "coordinates": [30.9388, 62.6517] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "ARTICULATION BRIDGE",
+        "name": "Oravisalontie",
+        "role": "BRIDGE / CHOKEPOINT",
+        "threat": "DENY / DEMOLISH",
+        "priority": "MEDIUM",
+        "source": "physarum-discovered",
+        "physarum_Q_normalised": 1.00,
+        "alternates_within_15km": 2,
+        "rationale": "Algorithm-discovered articulation bridge. Carries maximum normalised Physarum flow (Q=1.00) with only 2 alternative crossings within 15km. Destruction forces wide detour around Pyhäselkä lake system west of Joensuu."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.5372, 62.3073] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "ARTICULATION BRIDGE",
+        "name": "Muljulantie",
+        "role": "BRIDGE / CHOKEPOINT",
+        "threat": "DENY / DEMOLISH",
+        "priority": "MEDIUM",
+        "source": "physarum-discovered",
+        "physarum_Q_normalised": 0.54,
+        "alternates_within_15km": 1,
+        "rationale": "Algorithm-discovered articulation bridge near Kitee. Only 1 alternate crossing within 15km — destruction isolates the local sector and forces detour through Tohmajärvi axis."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.9633, 62.1696] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "ARTICULATION BRIDGE",
+        "name": "Joensuuväylä",
+        "role": "BRIDGE / CHOKEPOINT",
+        "threat": "DENY / DEMOLISH",
+        "priority": "MEDIUM",
+        "source": "physarum-discovered",
+        "physarum_Q_normalised": 0.35,
+        "alternates_within_15km": 2,
+        "rationale": "Algorithm-discovered crossing on the Joensuu→Tuupovaara axis. Moderate flow with only 2 alternates within 15km — interdiction degrades supply to eastern border sectors."
+      },
+      "geometry": { "type": "Point", "coordinates": [30.2365, 62.4930] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "MAIN SUPPLY ROUTE",
+        "name": "E63/Rd 6 — N-S main artery (Helsinki↔Joensuu↔Kajaani)",
+        "role": "MSR-1",
+        "threat": "INTERDICT",
+        "priority": "HIGH",
+        "source": "physarum-discovered",
+        "total_flow": 1498.1,
+        "active_segments": 184,
+        "rationale": "Highest-flow corridor in the AO by Physarum total flux. Primary north-south supply artery — strategic spine of all logistics through North Karelia."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.7790, 62.6277] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "MAIN SUPPLY ROUTE",
+        "name": "Rd 14 (Savonlinna corridor)",
+        "role": "MSR-2",
+        "threat": "INTERDICT",
+        "priority": "HIGH",
+        "source": "physarum-discovered",
+        "total_flow": 1291.1,
+        "active_segments": 141,
+        "rationale": "Second-highest aggregate flow. Connects southern AO with central Finland through Savonlinna — supports lateral reinforcement and reroute capacity if E63 is interdicted."
+      },
+      "geometry": { "type": "Point", "coordinates": [28.9000, 61.8700] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "MAIN SUPPLY ROUTE",
+        "name": "E75/Rd 9 — E-W corridor (Joensuu↔Kuopio↔Tampere)",
+        "role": "MSR-3",
+        "threat": "INTERDICT",
+        "priority": "HIGH",
+        "source": "physarum-discovered",
+        "total_flow": 240.0,
+        "active_segments": 84,
+        "rationale": "Primary east-west supply corridor. Connects AO to Kuopio logistics hub and onward to Tampere — westbound resupply and reinforcement axis."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.4000, 62.6000] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "ALTERNATE SUPPLY ROUTE",
+        "name": "Rd 73 — primary route to Lieksa/border zone",
+        "role": "ASR-1",
+        "threat": "INTERDICT",
+        "priority": "MEDIUM",
+        "source": "physarum-discovered",
+        "total_flow": 263.5,
+        "active_segments": 60,
+        "rationale": "Only paved supply axis to Lieksa and forward border positions in the northeastern AO. Loss forces tertiary forest roads, drastically reducing logistics throughput."
+      },
+      "geometry": { "type": "Point", "coordinates": [30.0000, 63.1000] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "ALTERNATE SUPPLY ROUTE",
+        "name": "Rd 71 — southern approach (Savonlinna↔Joensuu)",
+        "role": "ASR-2",
+        "threat": "INTERDICT",
+        "priority": "MEDIUM",
+        "source": "physarum-discovered",
+        "total_flow": 180.2,
+        "active_segments": 37,
+        "rationale": "Secondary southern approach to Joensuu via Savonlinna. Carries reinforcement traffic when E63 is congested or interdicted."
+      },
+      "geometry": { "type": "Point", "coordinates": [29.4000, 62.3000] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "NETWORK ANALYSIS",
+        "subcategory": "TACTICAL ROUTE",
+        "name": "Rd 74 — sole paved route into Ilomantsi salient",
+        "role": "TAC-1",
+        "threat": "INTERDICT",
+        "priority": "MEDIUM",
+        "source": "physarum-discovered",
+        "total_flow": 116.0,
+        "active_segments": 31,
+        "rationale": "Only paved road into the Ilomantsi border salient. Single-axis vulnerability — destruction isolates the entire sector from rail or paved-road resupply."
+      },
+      "geometry": { "type": "Point", "coordinates": [30.9300, 62.6700] }
+    }
+  ],
+  "summary": {
+    "network_stats": {
+      "active_corridor_length_km": 876,
+      "edges_pruned_pct": 70,
+      "surviving_edges": 1379,
+      "loc_segments_mapped": 7350
+    },
+    "method_notes": [
+      "Strategic-baseline targets (ranks 1-11, 14) are validated by domain analysis and given per-target priority boosts (1.20–1.80x).",
+      "Physarum slime-mold algorithm (Tero et al. 2010) iterated 80 cycles on the road graph to identify high-flow corridors.",
+      "Articulation bridges identified by: surviving Physarum edge + nearest-alternative-crossing count within 15km radius.",
+      "MSR/ASR classification ranks numbered routes by total Physarum flow × road-class rank.",
+      "Russian-territory features excluded by AO_MIN_LAT 62.1°N, diagonal border approximation, and Cyrillic name filter."
+    ]
+  }
+}

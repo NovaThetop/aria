@@ -1,0 +1,3159 @@
+[
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Paltamo Kontiomäki",
+  "lat": 64.31952,
+  "lon": 28.04487
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Helmisimpukka Siilinjärvi",
+  "lat": 63.05908,
+  "lon": 27.67517
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Shell Päiväranta",
+  "lat": 62.934,
+  "lon": 27.66548
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Kuopio Sorsasalo",
+  "lat": 62.95963,
+  "lon": 27.68945
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Siilinjärvi",
+  "lat": 63.07141,
+  "lon": 27.66266
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express Kajaani Pohjolankatu",
+  "lat": 64.22697,
+  "lon": 27.72494
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Kitee Tolosenmäki",
+  "lat": 62.14279,
+  "lon": 30.04397
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Kontiolahti",
+  "lat": 62.7149,
+  "lon": 29.85493
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express Kajaani Koskiportti",
+  "lat": 64.22134,
+  "lon": 27.74217
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil",
+  "lat": 64.24119,
+  "lon": 27.75327
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express",
+  "lat": 62.59929,
+  "lon": 29.75549
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Shell Joensuu Rauhankatu",
+  "lat": 62.60687,
+  "lon": 29.77152
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Siihtala",
+  "lat": 62.60793,
+  "lon": 29.77567
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Joensuu Sortavalankatu",
+  "lat": 62.60134,
+  "lon": 29.78297
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Shell Liperi Ylämylly",
+  "lat": 62.6144,
+  "lon": 29.5424
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Sotkamo, Leipäkuja Autom",
+  "lat": 64.13136,
+  "lon": 28.36402
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Sotkamo Ratatie",
+  "lat": 64.13476,
+  "lon": 28.34755
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC",
+  "lat": 62.67175,
+  "lon": 30.93617
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Ilomantsi Ilotuuli",
+  "lat": 62.66812,
+  "lon": 30.93817
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil",
+  "lat": 63.30964,
+  "lon": 30.03576
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Prisma Joensuu",
+  "lat": 62.61782,
+  "lon": 29.77621
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC",
+  "lat": 63.08003,
+  "lon": 27.68035
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kehvon koulu",
+  "lat": 63.00266,
+  "lon": 27.55287
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express",
+  "lat": 63.31622,
+  "lon": 30.03115
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Kovero",
+  "lat": 62.55512,
+  "lon": 30.51645
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Prisma Kuopio",
+  "lat": 62.88644,
+  "lon": 27.6312
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "SEO Rasivaara",
+  "lat": 62.27131,
+  "lon": 29.75027
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC S-market Rääkkylä",
+  "lat": 62.3145,
+  "lon": 29.62292
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "SEO Paltamo",
+  "lat": 64.40465,
+  "lon": 27.83914
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "(unnamed)",
+  "lat": 62.11474,
+  "lon": 28.60613
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Kanervala",
+  "lat": 62.60937,
+  "lon": 29.76288
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Kuopio Autom Nilsiä / St1 Sydänmaa",
+  "lat": 63.16555,
+  "lon": 28.08975
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuuslahden ala-aste",
+  "lat": 63.13021,
+  "lon": 27.77993
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Sotkamo Vuokatti",
+  "lat": 64.14701,
+  "lon": 28.26946
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Piitteri",
+  "lat": 63.22624,
+  "lon": 29.34284
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Juuka",
+  "lat": 63.2471,
+  "lon": 29.26565
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "st1",
+  "lat": 62.80058,
+  "lon": 28.50364
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Joroinen Jari-Pekka",
+  "lat": 62.1765,
+  "lon": 27.84061
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "SEO Leppävirta",
+  "lat": 62.49036,
+  "lon": 27.7652
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Viitostupa",
+  "lat": 63.13976,
+  "lon": 27.61652
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Газпромнефть",
+  "lat": 62.1673,
+  "lon": 30.64115
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1",
+  "lat": 62.89274,
+  "lon": 27.67066
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express Kuopio Kolmisoppi CM",
+  "lat": 62.86277,
+  "lon": 27.61511
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Shell Kuopio Levänen",
+  "lat": 62.86154,
+  "lon": 27.62833
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste",
+  "lat": 62.62993,
+  "lon": 29.70235
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Joroinen",
+  "lat": 62.18257,
+  "lon": 27.839
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC S-market Ristijärvi",
+  "lat": 64.49881,
+  "lon": 28.21827
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Utran koulu",
+  "lat": 62.62148,
+  "lon": 29.85106
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Liperi",
+  "lat": 62.53549,
+  "lon": 29.40264
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Horsmanahon koulu",
+  "lat": 62.82843,
+  "lon": 29.26076
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pohjois-Ahon koulu",
+  "lat": 62.73036,
+  "lon": 29.02657
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express Joensuu Rantakylä",
+  "lat": 62.61423,
+  "lon": 29.81284
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC S-market Heinävesi",
+  "lat": 62.42535,
+  "lon": 28.63103
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Valtimo",
+  "lat": 63.68586,
+  "lon": 28.79735
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Heinävesi Karvion Kanava",
+  "lat": 62.51449,
+  "lon": 28.6439
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Paksuniemi",
+  "lat": 62.33237,
+  "lon": 29.632
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Siilinjärvi Ranta-Toivalantie",
+  "lat": 62.98252,
+  "lon": 27.73222
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Петро ТЭК",
+  "lat": 62.1584,
+  "lon": 30.6824
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Экотранс",
+  "lat": 62.16232,
+  "lon": 30.65439
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Man-Oil Pajulahti",
+  "lat": 63.14224,
+  "lon": 27.86105
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "(unnamed)",
+  "lat": 62.10282,
+  "lon": 30.12566
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Kuhmo",
+  "lat": 64.12235,
+  "lon": 29.50651
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Juuka Kolinportti",
+  "lat": 63.09445,
+  "lon": 29.61174
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Lieksa automaattiasema",
+  "lat": 63.32251,
+  "lon": 30.00867
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC",
+  "lat": 62.72559,
+  "lon": 29.01993
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC",
+  "lat": 63.11424,
+  "lon": 29.77707
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Abc",
+  "lat": 62.61451,
+  "lon": 29.54691
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1",
+  "lat": 64.21115,
+  "lon": 27.77285
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Sonkajärven lukio",
+  "lat": 63.66896,
+  "lon": 27.52084
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC S-Market Polvijärvi",
+  "lat": 62.85303,
+  "lon": 29.36732
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Särkiniemi",
+  "lat": 62.88051,
+  "lon": 27.63466
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Varpaisjärvi",
+  "lat": 63.36056,
+  "lon": 27.7553
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "SEO Vartiala",
+  "lat": 62.92985,
+  "lon": 28.06766
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "SEO Vehmersalmi",
+  "lat": 62.7628,
+  "lon": 28.03191
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Nurmes",
+  "lat": 63.55324,
+  "lon": 29.09948
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Automaatti Nurmes",
+  "lat": 63.55313,
+  "lon": 29.10672
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Sonkajärvi",
+  "lat": 63.66477,
+  "lon": 27.52363
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste K Varkaus Warkaudenportti",
+  "lat": 62.33269,
+  "lon": 27.82915
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Nilsiä Autom",
+  "lat": 63.20487,
+  "lon": 28.07785
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Rautavaara",
+  "lat": 63.49736,
+  "lon": 28.30433
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Sale Kangaslampi",
+  "lat": 62.29527,
+  "lon": 28.25019
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Shell Outokumpu",
+  "lat": 62.70137,
+  "lon": 28.96071
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Maljalahden mittari",
+  "lat": 62.89492,
+  "lon": 27.69532
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Männistö",
+  "lat": 62.89923,
+  "lon": 27.7071
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kuurnan Päiväkoti",
+  "lat": 64.23664,
+  "lon": 27.75706
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Saariston puoti",
+  "lat": 62.43629,
+  "lon": 29.63113
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC",
+  "lat": 63.35873,
+  "lon": 27.75699
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "VP Rantaparkki",
+  "lat": 62.4898,
+  "lon": 27.80291
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "SEO Heinävesi",
+  "lat": 62.52448,
+  "lon": 28.46592
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Juankoski Autom",
+  "lat": 63.06315,
+  "lon": 28.32112
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Abc Automaatti Ykkösrasti",
+  "lat": 62.88111,
+  "lon": 27.66451
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Liperi",
+  "lat": 62.52855,
+  "lon": 29.38444
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.98729,
+  "lon": 27.72452
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "(unnamed)",
+  "lat": 62.62672,
+  "lon": 27.98675
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC",
+  "lat": 64.20619,
+  "lon": 27.74015
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Prisma Varkaus",
+  "lat": 62.31563,
+  "lon": 27.85804
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC S-market Tohmajärvi",
+  "lat": 62.22561,
+  "lon": 30.33586
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Joensuu Uimaharju Autom",
+  "lat": 62.91572,
+  "lon": 30.25894
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Levänen D-Automaatti",
+  "lat": 62.84897,
+  "lon": 27.627
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "SEO",
+  "lat": 62.92557,
+  "lon": 28.67297
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Leppävirta",
+  "lat": 62.48981,
+  "lon": 27.77118
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Sarvikummun kyläkauppa",
+  "lat": 62.4702,
+  "lon": 29.02747
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express Kuopio Matkus",
+  "lat": 62.8205,
+  "lon": 27.60844
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Outokumpu automaatti",
+  "lat": 62.71449,
+  "lon": 28.98669
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "SEO Juuka automaatti",
+  "lat": 63.24018,
+  "lon": 29.28108
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Ollilan päiväkoti",
+  "lat": 62.61687,
+  "lon": 29.79977
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Millibaari",
+  "lat": 62.76233,
+  "lon": 28.01844
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Express",
+  "lat": 62.83469,
+  "lon": 27.66774
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Automat",
+  "lat": 62.83965,
+  "lon": 27.64875
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil",
+  "lat": 62.31707,
+  "lon": 27.8616
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Varkaus",
+  "lat": 62.30523,
+  "lon": 27.85464
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express Varkaus Kartasalonkuja",
+  "lat": 62.33533,
+  "lon": 27.87692
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Shell Express Taipale",
+  "lat": 62.30311,
+  "lon": 27.91795
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Shell Express",
+  "lat": 62.31553,
+  "lon": 27.86646
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC",
+  "lat": 64.12758,
+  "lon": 29.5245
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Kuhmo",
+  "lat": 64.1241,
+  "lon": 29.51065
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kanervalan koulu",
+  "lat": 62.61566,
+  "lon": 29.74285
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Roinilan Hoitokoti Repo Oy",
+  "lat": 62.89776,
+  "lon": 27.84612
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Enon Neste kk",
+  "lat": 62.79872,
+  "lon": 30.15127
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Esperi Hoivakoti",
+  "lat": 62.74549,
+  "lon": 29.80285
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Attendo Sirkunhovi",
+  "lat": 62.62719,
+  "lon": 29.84927
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Päivärannan neuvola",
+  "lat": 62.93641,
+  "lon": 27.65297
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Pihlajakoti",
+  "lat": 62.61669,
+  "lon": 29.72342
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuopion Kansalaisopisto",
+  "lat": 62.89542,
+  "lon": 27.66824
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Marjala",
+  "lat": 62.6358,
+  "lon": 29.66484
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Vanhainkoti",
+  "lat": 62.31336,
+  "lon": 29.63127
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Paltamon lukio",
+  "lat": 64.40579,
+  "lon": 27.82943
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Shell",
+  "lat": 63.20064,
+  "lon": 28.09159
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Express Kuopio Päiväranta",
+  "lat": 62.93421,
+  "lon": 27.67077
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Itä-Suomen liikuntaopisto",
+  "lat": 62.59767,
+  "lon": 29.74373
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil",
+  "lat": 62.95733,
+  "lon": 27.69429
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Kajaani",
+  "lat": 64.21835,
+  "lon": 27.67682
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 63.08215,
+  "lon": 27.64171
+ },
+ {
+  "cat": "higher_ed",
+  "type": "college",
+  "name": "Joensuun Hierojakoulu",
+  "lat": 62.60062,
+  "lon": 29.75935
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Sotkamon Etsivänuorisotyö",
+  "lat": 64.13296,
+  "lon": 28.39076
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Hyvänmielen kulma",
+  "lat": 64.13026,
+  "lon": 28.38524
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "(unnamed)",
+  "lat": 64.13235,
+  "lon": 28.38291
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Spartak",
+  "lat": 64.21883,
+  "lon": 27.73336
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Kainuun kulttuuripaja Marilyn",
+  "lat": 64.22114,
+  "lon": 27.73774
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "KELA",
+  "lat": 64.22218,
+  "lon": 27.72495
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Kehitysvammaisten palvelukeskus",
+  "lat": 64.21494,
+  "lon": 27.76118
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Punaisen Ristin Männistön terveyspiste",
+  "lat": 62.90209,
+  "lon": 27.7048
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Punaisen Ristin Neulamäen terveyspiste",
+  "lat": 62.88397,
+  "lon": 27.61269
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Punaisen Ristin Terveyspiste Petonen",
+  "lat": 62.8396,
+  "lon": 27.64471
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Punaisen Ristin Länsi-Puijon terveyspiste",
+  "lat": 62.9193,
+  "lon": 27.63517
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Punaisen Ristin Saarijärven terveyspiste",
+  "lat": 62.90869,
+  "lon": 27.69428
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Punaisen Ristin Viinijärven terveyspiste",
+  "lat": 62.64453,
+  "lon": 29.23422
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Punaisen Ristin Joensuun terveyspiste",
+  "lat": 62.60405,
+  "lon": 29.76332
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuopion aikuislukio",
+  "lat": 62.88944,
+  "lon": 27.67855
+ },
+ {
+  "cat": "higher_ed",
+  "type": "college",
+  "name": "Humak Kuopion kampus",
+  "lat": 62.81563,
+  "lon": 27.62721
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Paimenpojan päiväkodin esiopetus",
+  "lat": 62.85579,
+  "lon": 27.64161
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "(unnamed)",
+  "lat": 62.8779,
+  "lon": 27.66255
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Navigaattori Kuopio",
+  "lat": 62.89259,
+  "lon": 27.67541
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Ohjaamo Juuka",
+  "lat": 63.24183,
+  "lon": 29.2539
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Huoltoasema",
+  "lat": 62.87451,
+  "lon": 27.66414
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Louhumäen toimintakeskus",
+  "lat": 62.83606,
+  "lon": 27.65841
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Alavan koulu, Alavan yksikkö",
+  "lat": 62.88626,
+  "lon": 27.6642
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Alavan koulu, Julkulan yksikkö",
+  "lat": 62.93165,
+  "lon": 27.63009
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Juankosken lukio",
+  "lat": 63.06566,
+  "lon": 28.3273
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Nilsiän asiakaspalvelupiste",
+  "lat": 63.20319,
+  "lon": 28.08866
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "ViaDia Pohjois-Savo ry",
+  "lat": 63.0761,
+  "lon": 27.6623
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Onni",
+  "lat": 62.89422,
+  "lon": 27.6593
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Gasum Neulamäki",
+  "lat": 62.84589,
+  "lon": 27.59808
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Gartano Oy",
+  "lat": 62.60226,
+  "lon": 29.75843
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Hoivakoti Norlandia PuijonKuppee",
+  "lat": 62.89802,
+  "lon": 27.66257
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Onttolan esiopetus",
+  "lat": 62.64913,
+  "lon": 29.67832
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Joensuun seudun kansalaisopisto",
+  "lat": 62.59565,
+  "lon": 29.75079
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Puijonsarven esikoulu",
+  "lat": 62.93268,
+  "lon": 27.65735
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC S-market Nilsiä",
+  "lat": 63.19356,
+  "lon": 28.094
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Jukolanportti",
+  "lat": 62.62664,
+  "lon": 29.79502
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Lieksan yläkoulu",
+  "lat": 63.32497,
+  "lon": 30.01972
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "St1 Automaatti Lieksa",
+  "lat": 63.31918,
+  "lon": 30.01835
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Joensuun Enkku",
+  "lat": 62.59818,
+  "lon": 29.72205
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Joroisten lukio",
+  "lat": 62.17982,
+  "lon": 27.83158
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Varkauden lukio",
+  "lat": 62.32903,
+  "lon": 27.85195
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Nilsiän lukio",
+  "lat": 63.20389,
+  "lon": 28.08954
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Tohmajärven lukio",
+  "lat": 62.22156,
+  "lon": 30.33344
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Timantti",
+  "lat": 62.88936,
+  "lon": 27.60677
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Leppävirran lukio",
+  "lat": 62.49068,
+  "lon": 27.79417
+ },
+ {
+  "cat": "higher_ed",
+  "type": "college",
+  "name": "Savonia, Varkauden kampus",
+  "lat": 62.32998,
+  "lon": 27.85135
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Mustinlammen päiväkoti",
+  "lat": 62.89631,
+  "lon": 27.66283
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ilomantsin lukio",
+  "lat": 62.66612,
+  "lon": 30.92995
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "KAO, Vuokatin kampus",
+  "lat": 64.13752,
+  "lon": 28.28667
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Pääskyn päiväkoti",
+  "lat": 62.60657,
+  "lon": 29.76588
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Työ- ja päivätoiminta Tuike",
+  "lat": 62.59859,
+  "lon": 29.75865
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Karelia ammattikorkeakoulu",
+  "lat": 62.6156,
+  "lon": 29.74145
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Attendo",
+  "lat": 62.97507,
+  "lon": 28.48172
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil",
+  "lat": 62.6326,
+  "lon": 29.35751
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Palokankaan koulu",
+  "lat": 64.21436,
+  "lon": 27.72795
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kainuun ammattiopisto",
+  "lat": 64.25117,
+  "lon": 27.741
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kainuun ammattiopisto, Vuorikadun kampus",
+  "lat": 64.21997,
+  "lon": 27.72324
+ },
+ {
+  "cat": "higher_ed",
+  "type": "college",
+  "name": "Kajaanin yliopistokeskus",
+  "lat": 64.21823,
+  "lon": 27.77964
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "STEP-koulutus, Kuopion toimipaikka",
+  "lat": 62.88787,
+  "lon": 27.62731
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Polvijärven lukio",
+  "lat": 62.85594,
+  "lon": 29.36822
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Tuusniemen lukio",
+  "lat": 62.81148,
+  "lon": 28.487
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Rautavaaran lukio",
+  "lat": 63.49719,
+  "lon": 28.29478
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "ABC Siilainen",
+  "lat": 62.61483,
+  "lon": 29.73126
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Teboil Varkaus Hasinmäentie D-automaatti",
+  "lat": 62.3289,
+  "lon": 27.82467
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Heinäveden lukio",
+  "lat": 62.42527,
+  "lon": 28.62749
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kontiolahden lukio",
+  "lat": 62.76825,
+  "lon": 29.85065
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Lentiiran Lomakylä",
+  "lat": 64.38096,
+  "lon": 29.78202
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kelloniemen päiväkoti",
+  "lat": 62.91555,
+  "lon": 27.70583
+ },
+ {
+  "cat": "fuel",
+  "type": "fuel",
+  "name": "Neste Puijonlaakso",
+  "lat": 62.89902,
+  "lon": 27.65449
+ },
+ {
+  "cat": "eldercare",
+  "type": "social_facility",
+  "name": "Attendo Muurutvirta",
+  "lat": 63.01156,
+  "lon": 28.24918
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ingmanedu Sammontien toimipiste",
+  "lat": 62.98356,
+  "lon": 27.72998
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Neulamäen koulu",
+  "lat": 62.88269,
+  "lon": 27.61013
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Itä-Suomen yliopisto",
+  "lat": 62.60435,
+  "lon": 29.74311
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Rantalan alakoulu",
+  "lat": 63.31124,
+  "lon": 30.04053
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 63.2998,
+  "lon": 30.06638
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Lieksan lukio",
+  "lat": 63.31828,
+  "lon": 30.03546
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Keskuskoulun alakoulu, Koulukadun toimipiste",
+  "lat": 63.32005,
+  "lon": 30.02831
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Snellmanin koulu - Niiralan yksikkö",
+  "lat": 62.89316,
+  "lon": 27.66382
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.89551,
+  "lon": 27.68613
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 64.20572,
+  "lon": 27.74184
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pataluodon yhtenäiskoulu",
+  "lat": 62.61467,
+  "lon": 29.8185
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Punahilkan päiväkoti",
+  "lat": 62.57855,
+  "lon": 29.80395
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Karelia-ammattikorkeakoulu - Tikkarinne-kampus",
+  "lat": 62.58881,
+  "lon": 29.77967
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Nepenmäen koulu",
+  "lat": 62.58637,
+  "lon": 29.78071
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.59389,
+  "lon": 29.79335
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Karelia-ammattikorkeakoulu - Wärtsilä-kampus",
+  "lat": 62.59644,
+  "lon": 29.77765
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riveria",
+  "lat": 62.58893,
+  "lon": 29.76943
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pohjois-Karjalan Ammattiopisto",
+  "lat": 62.59271,
+  "lon": 29.76962
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Tietoteknia",
+  "lat": 62.89088,
+  "lon": 27.63668
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Medistudia",
+  "lat": 62.89665,
+  "lon": 27.64107
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Studentia",
+  "lat": 62.89379,
+  "lon": 27.63973
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Utran päiväkoti",
+  "lat": 62.61994,
+  "lon": 29.85638
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Mutalan koulu",
+  "lat": 62.61301,
+  "lon": 29.78744
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Soutajanpuiston päiväkoti",
+  "lat": 62.61995,
+  "lon": 29.81752
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Käspeli, käsityökeskus",
+  "lat": 62.31489,
+  "lon": 29.62993
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Lyseon peruskoulu",
+  "lat": 62.60214,
+  "lon": 29.75396
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pöljän koulu",
+  "lat": 63.11945,
+  "lon": 27.63659
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kalevalan koulu",
+  "lat": 62.90499,
+  "lon": 27.69559
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Valteri-koulu Mäntykangas",
+  "lat": 62.90273,
+  "lon": 27.71221
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ahmon koulu ja Siilinjärven lukio",
+  "lat": 63.07973,
+  "lon": 27.66939
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.85711,
+  "lon": 29.37851
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Мкоу Лендерская СОШ",
+  "lat": 63.42728,
+  "lon": 31.16968
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Вяртсильская школа",
+  "lat": 62.17927,
+  "lon": 30.69714
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pitkälahden koulu",
+  "lat": 62.83573,
+  "lon": 27.61819
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Varpaisjärven koulu",
+  "lat": 63.35565,
+  "lon": 27.76306
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.90359,
+  "lon": 27.63918
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Hatsalan klassillinen koulu",
+  "lat": 62.89733,
+  "lon": 27.65603
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Viinijärven koulu",
+  "lat": 62.64569,
+  "lon": 29.23332
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Soidinsuon koulu",
+  "lat": 64.20696,
+  "lon": 27.75152
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Taito 1",
+  "lat": 64.21629,
+  "lon": 27.71457
+ },
+ {
+  "cat": "higher_ed",
+  "type": "university",
+  "name": "Taito 2",
+  "lat": 64.21513,
+  "lon": 27.71123
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pyhäselän koulu",
+  "lat": 62.43806,
+  "lon": 29.96394
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Enon koulu",
+  "lat": 62.78952,
+  "lon": 30.15347
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Penttilän päiväkoti",
+  "lat": 62.58354,
+  "lon": 29.77179
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuorevaaran koulu",
+  "lat": 62.79332,
+  "lon": 29.4558
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Linnunlahden päiväkoti",
+  "lat": 62.60372,
+  "lon": 29.72356
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Aurinkorinteen koulu",
+  "lat": 62.8369,
+  "lon": 27.66832
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pirtin koulu",
+  "lat": 62.8285,
+  "lon": 27.66106
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ylämyllyn koulu, Jyrin yksikkö",
+  "lat": 62.62931,
+  "lon": 29.55027
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Satumetsä",
+  "lat": 64.11676,
+  "lon": 29.51902
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Tuupalan yhtenäiskoulu",
+  "lat": 64.12409,
+  "lon": 29.50726
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Vuoropäiväkoti Kuusenkuiske",
+  "lat": 64.11651,
+  "lon": 29.48748
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.57035,
+  "lon": 29.81626
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ingmanin käsi- ja taideteollisuusoppilatos",
+  "lat": 62.99286,
+  "lon": 27.72841
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Toivalan koulu",
+  "lat": 62.98797,
+  "lon": 27.73014
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Vuorelan koulu",
+  "lat": 62.97989,
+  "lon": 27.69628
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Liperin koulu",
+  "lat": 62.53287,
+  "lon": 29.37176
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.54384,
+  "lon": 29.83598
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kylmäojan koulu",
+  "lat": 62.68347,
+  "lon": 29.81945
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Lehtikankaan koulu",
+  "lat": 64.20777,
+  "lon": 27.73536
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kainuun ammattiopisto, Vimpelin kampus",
+  "lat": 64.21669,
+  "lon": 27.7199
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Tuupovaaran koulu",
+  "lat": 62.4907,
+  "lon": 30.61247
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kiihtelysvaaran koulu",
+  "lat": 62.48189,
+  "lon": 30.25926
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Käsämän koulu",
+  "lat": 62.64806,
+  "lon": 29.35501
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.62534,
+  "lon": 29.58641
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riveria Niskala",
+  "lat": 62.60335,
+  "lon": 29.75743
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Кимоваарская Основная Общеобразовательная Школа",
+  "lat": 63.6424,
+  "lon": 31.04424
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.49306,
+  "lon": 27.78913
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.63815,
+  "lon": 29.37737
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kirkkokadun koulu",
+  "lat": 63.54621,
+  "lon": 29.13452
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Nakertajan koulu",
+  "lat": 64.24901,
+  "lon": 27.69827
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuluntalahden koulu",
+  "lat": 64.2744,
+  "lon": 27.89633
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Petäikkölän päiväkoti",
+  "lat": 62.58009,
+  "lon": 29.78855
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuhmon yhteislukio",
+  "lat": 64.12286,
+  "lon": 29.51475
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuhmon oppimiskeskus",
+  "lat": 64.12126,
+  "lon": 29.51906
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Salmelan koulu",
+  "lat": 64.13484,
+  "lon": 28.39708
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Hietaperän koulu",
+  "lat": 64.1933,
+  "lon": 29.16505
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Lentuan koulu",
+  "lat": 64.20821,
+  "lon": 29.73377
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Niiralan päiväkoti",
+  "lat": 62.89102,
+  "lon": 27.6536
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Leivolan koulu",
+  "lat": 64.13135,
+  "lon": 28.334
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Pilke musiikkipäiväkoti Hepokatti",
+  "lat": 62.62167,
+  "lon": 29.70462
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Porokylän koulu",
+  "lat": 63.5541,
+  "lon": 29.08996
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Sinkkolan päiväkoti",
+  "lat": 62.62359,
+  "lon": 29.69307
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kettulan koulu",
+  "lat": 62.92149,
+  "lon": 27.68311
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Martti Ahtisaaren koulu",
+  "lat": 62.85169,
+  "lon": 27.70215
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Poikolan yhtenäiskoulu",
+  "lat": 63.23896,
+  "lon": 29.25239
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Valtimon koulu",
+  "lat": 63.68119,
+  "lon": 28.81219
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riveria, Valtimon koulutusyksikkö",
+  "lat": 63.68163,
+  "lon": 28.82301
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riistaveden yhtenäiskoulu",
+  "lat": 62.9154,
+  "lon": 28.14561
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Alapitkän koulu",
+  "lat": 63.20156,
+  "lon": 27.53912
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Oravikosken koulu",
+  "lat": 62.58746,
+  "lon": 27.60269
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.91696,
+  "lon": 27.63906
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kallaveden lukio",
+  "lat": 62.88971,
+  "lon": 27.6876
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Vuokatin koulu",
+  "lat": 64.14476,
+  "lon": 28.26627
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kätönlahden koulu",
+  "lat": 64.23303,
+  "lon": 27.76875
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuopion Lyseon lukio",
+  "lat": 62.89138,
+  "lon": 27.6793
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.66785,
+  "lon": 29.79786
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Tenetin koulu",
+  "lat": 64.14718,
+  "lon": 28.30981
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.60379,
+  "lon": 29.86206
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Lehmon koulu",
+  "lat": 62.64954,
+  "lon": 29.81219
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kangaslahden koulu",
+  "lat": 63.39476,
+  "lon": 28.12852
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kasurilan alakoulu",
+  "lat": 63.04555,
+  "lon": 27.70288
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 64.21184,
+  "lon": 27.68158
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Lohtajan koulu",
+  "lat": 64.21992,
+  "lon": 27.67988
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 64.21494,
+  "lon": 27.68009
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Pikkusiili",
+  "lat": 62.97507,
+  "lon": 27.70078
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 64.22258,
+  "lon": 27.71382
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Hamulan koulu",
+  "lat": 63.07706,
+  "lon": 27.61429
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pyörön koulu, Ala-Pyörö (ala-aste)",
+  "lat": 62.83678,
+  "lon": 27.64058
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 64.22712,
+  "lon": 27.70223
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Rekulan päiväkoti",
+  "lat": 63.56393,
+  "lon": 29.10922
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Pikku-Kaarlen päiväkoti",
+  "lat": 63.54359,
+  "lon": 29.1393
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Länsi-Puijon päiväkoti",
+  "lat": 62.91556,
+  "lon": 27.63341
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Paloahon koulu",
+  "lat": 62.92933,
+  "lon": 27.63108
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Hiltulanlahden koulu ja päiväkoti",
+  "lat": 62.80683,
+  "lon": 27.60588
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Touhula Hiltulanlahti",
+  "lat": 62.80658,
+  "lon": 27.6121
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Tuuliviirin päiväkoti",
+  "lat": 62.83556,
+  "lon": 27.64649
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Snellmanin koulu",
+  "lat": 62.89183,
+  "lon": 27.68849
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Petosenmutkan päiväkoti",
+  "lat": 62.83891,
+  "lon": 27.6301
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Suopursun päiväkoti",
+  "lat": 62.83619,
+  "lon": 27.63531
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kaarenhovin päiväkoti",
+  "lat": 62.84043,
+  "lon": 27.63736
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Maunolanmäen päiväkoti",
+  "lat": 62.83437,
+  "lon": 27.62257
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Uppo-Nallen päiväkoti",
+  "lat": 62.84142,
+  "lon": 27.68585
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Pölläkänlahden päiväkoti",
+  "lat": 62.83689,
+  "lon": 27.67248
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Jönköpingin päiväkoti",
+  "lat": 62.89889,
+  "lon": 27.7143
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Inkilänmäen päiväkoti",
+  "lat": 62.91385,
+  "lon": 27.67658
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.88392,
+  "lon": 27.66644
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuopion kaupunki",
+  "lat": 62.8781,
+  "lon": 27.64129
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Rauhalahden päiväkoti",
+  "lat": 62.86833,
+  "lon": 27.63387
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kuoppamäen päiväkoti",
+  "lat": 62.83388,
+  "lon": 27.66313
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.84757,
+  "lon": 27.63776
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Musiikkipäiväkoti Priimi",
+  "lat": 62.82665,
+  "lon": 27.67058
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Touhula Saaristokaupunki",
+  "lat": 62.82939,
+  "lon": 27.6656
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Palvelualan Opisto Kuopio",
+  "lat": 62.89691,
+  "lon": 27.68991
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuopion Steinerkoulu",
+  "lat": 62.8968,
+  "lon": 27.67707
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuopion klassillinen lukio",
+  "lat": 62.89916,
+  "lon": 27.66136
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Niittylahden koulu",
+  "lat": 62.52041,
+  "lon": 29.86857
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kummun koulu",
+  "lat": 62.72499,
+  "lon": 29.01417
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Outokummun lukio",
+  "lat": 62.72956,
+  "lon": 29.00654
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riveria Outokumpu Lammela",
+  "lat": 62.73159,
+  "lon": 29.05467
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kalattoman päiväkoti",
+  "lat": 62.72967,
+  "lon": 29.05101
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Mustolan päiväkoti",
+  "lat": 62.71743,
+  "lon": 29.02659
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Hannilan päiväkoti",
+  "lat": 63.54241,
+  "lon": 29.16758
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kuikkalammen päiväkoti",
+  "lat": 62.85975,
+  "lon": 27.69856
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Savon ammattiopisto Toivalan kampus",
+  "lat": 63.00865,
+  "lon": 27.71818
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Marjalan päiväkoti",
+  "lat": 62.632,
+  "lon": 29.65635
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Pilke liikuntapäiväkoti Marjala",
+  "lat": 62.632,
+  "lon": 29.64986
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pohjavaaran koulu",
+  "lat": 64.22368,
+  "lon": 28.08209
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.60273,
+  "lon": 29.80109
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Vehmersalmen koulu",
+  "lat": 62.76115,
+  "lon": 28.02636
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 63.06662,
+  "lon": 27.67156
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Päivärinteen alakoulu",
+  "lat": 63.07678,
+  "lon": 27.68133
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 63.06937,
+  "lon": 27.6873
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 63.07676,
+  "lon": 27.61071
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Könönpellon koulu",
+  "lat": 62.29616,
+  "lon": 27.93711
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Salokylän koulu",
+  "lat": 62.57914,
+  "lon": 29.48423
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Satuvakka",
+  "lat": 64.14832,
+  "lon": 28.27102
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Keskuskoulu",
+  "lat": 64.22605,
+  "lon": 27.72313
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kalevan koulu",
+  "lat": 64.22561,
+  "lon": 27.72769
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Siilinlahden koulu",
+  "lat": 63.07449,
+  "lon": 27.67113
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Komiahon koulu",
+  "lat": 64.26495,
+  "lon": 27.74967
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Touhula Vuokatti",
+  "lat": 64.15746,
+  "lon": 28.26399
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Mäkikadun päiväkoti",
+  "lat": 64.1311,
+  "lon": 29.52567
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ylä-Savon ammattiopisto Toivala, Siilinjärvi",
+  "lat": 62.97884,
+  "lon": 27.71038
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Savonrannan koulu",
+  "lat": 62.18052,
+  "lon": 29.19998
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.99775,
+  "lon": 27.70888
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Touhula Rautaniemi",
+  "lat": 62.84041,
+  "lon": 27.69008
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Aittolammen päiväkoti",
+  "lat": 62.8545,
+  "lon": 27.65751
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Paimenpojan päiväkoti",
+  "lat": 62.8507,
+  "lon": 27.64307
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Luontopäiväkoti Norlandia Louna",
+  "lat": 62.82652,
+  "lon": 27.68246
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Pilke taidepäiväkoti Valo",
+  "lat": 62.85013,
+  "lon": 27.69399
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kristillinen päiväkoti Helmi",
+  "lat": 62.84658,
+  "lon": 27.70053
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Jukolan päiväkoti",
+  "lat": 62.61799,
+  "lon": 29.80799
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Nurmeksen lukio",
+  "lat": 63.54755,
+  "lon": 29.13796
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.68818,
+  "lon": 29.93048
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pajulahden koulu",
+  "lat": 63.14014,
+  "lon": 27.84673
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Uimaharjun koulu",
+  "lat": 62.91248,
+  "lon": 30.24807
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.66322,
+  "lon": 29.15307
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Naapurinvaaran koulu",
+  "lat": 64.18205,
+  "lon": 28.23304
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kanervalan päiväkoti",
+  "lat": 62.6119,
+  "lon": 29.75108
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ylämyllyn koulu, Patteriston yksikkö",
+  "lat": 62.62113,
+  "lon": 29.55253
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Honkalampi keskus",
+  "lat": 62.61652,
+  "lon": 29.50972
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Louhiojan koulu",
+  "lat": 62.80335,
+  "lon": 30.11213
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 63.67231,
+  "lon": 27.5181
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kaavin koulu",
+  "lat": 62.97543,
+  "lon": 28.48692
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuopion konservatorio, Kotkankallio",
+  "lat": 62.89291,
+  "lon": 27.65372
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.89045,
+  "lon": 27.67289
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Karvion koulu",
+  "lat": 62.50839,
+  "lon": 28.66202
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kangaslammin koulu",
+  "lat": 62.29518,
+  "lon": 28.2554
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.63514,
+  "lon": 27.6107
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Waltterin koulu",
+  "lat": 62.32212,
+  "lon": 27.85951
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Luttilan koulu",
+  "lat": 62.34506,
+  "lon": 27.86257
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kainuun ammattiopisto - Ketunpolku 7",
+  "lat": 64.21645,
+  "lon": 27.70515
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Arppen koulu",
+  "lat": 62.10229,
+  "lon": 30.13211
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 62.8893,
+  "lon": 27.68386
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Luontopäiväkoti Norlandia Pouta",
+  "lat": 62.92557,
+  "lon": 27.62752
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Hukanpesä",
+  "lat": 62.58339,
+  "lon": 29.79859
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Tarpojan päiväkoti",
+  "lat": 62.61901,
+  "lon": 29.70775
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Marjalan koulu",
+  "lat": 62.6321,
+  "lon": 29.66188
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Männistön päiväkoti",
+  "lat": 62.90017,
+  "lon": 27.70827
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Äkkiväärän päiväkoti",
+  "lat": 62.62537,
+  "lon": 29.69677
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Mölymäen päiväkoti",
+  "lat": 62.8863,
+  "lon": 27.66771
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kolin koulu",
+  "lat": 63.10949,
+  "lon": 29.77651
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kontiorannan koulu",
+  "lat": 62.73934,
+  "lon": 29.82273
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Nilsiän päiväkoti",
+  "lat": 63.20258,
+  "lon": 28.09601
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kontiomäen koulu",
+  "lat": 64.33745,
+  "lon": 28.09027
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kuvansin koulu",
+  "lat": 62.26216,
+  "lon": 27.87925
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Pielisjoen koulu",
+  "lat": 62.60282,
+  "lon": 29.77539
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kontinjoen koulu",
+  "lat": 64.1523,
+  "lon": 27.85944
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Polvijärven koulu, Sotkuman yksikkö",
+  "lat": 62.73585,
+  "lon": 29.44068
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Palonurmen koulu",
+  "lat": 63.29267,
+  "lon": 28.18479
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Leppäkertun koulu",
+  "lat": 62.48947,
+  "lon": 27.78002
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Tulliportin normaalikoulu",
+  "lat": 62.6051,
+  "lon": 29.74894
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Tulliportin normaalikoulu",
+  "lat": 62.6071,
+  "lon": 29.74649
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 63.098,
+  "lon": 29.61674
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Siilinkosken päiväkoti",
+  "lat": 63.07905,
+  "lon": 27.67613
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kurjalan koulu",
+  "lat": 62.54478,
+  "lon": 28.1066
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Konnuslahden koulu",
+  "lat": 62.53954,
+  "lon": 27.88807
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Timolan koulu",
+  "lat": 62.3778,
+  "lon": 27.86219
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Lehtoniemen koulu",
+  "lat": 62.29904,
+  "lon": 27.86034
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Puurtilan koulu",
+  "lat": 62.33764,
+  "lon": 27.91646
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Repokankaan koulu",
+  "lat": 62.31405,
+  "lon": 27.83247
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Sotkamon lukio",
+  "lat": 64.13408,
+  "lon": 28.38818
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riveria Outokumpu Rosteri",
+  "lat": 62.71674,
+  "lon": 29.00794
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riveria Outokumpu Servo",
+  "lat": 62.72834,
+  "lon": 29.01187
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Kajaanin lyseo",
+  "lat": 64.22209,
+  "lon": 27.73233
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Seminaarin koulu",
+  "lat": 64.22982,
+  "lon": 27.72456
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "YSAO Liperi",
+  "lat": 62.63506,
+  "lon": 29.59452
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Paloisten koulu",
+  "lat": 63.49244,
+  "lon": 27.85549
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riistaveden yhtenäiskoulu, Vehkalammin yksikkö",
+  "lat": 62.93461,
+  "lon": 27.94821
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Muuruveden koulu",
+  "lat": 63.01316,
+  "lon": 28.20688
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti PIkkutassu",
+  "lat": 64.21351,
+  "lon": 27.73556
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ylämyllyn koulu, Paloaukean yksikkö",
+  "lat": 62.63046,
+  "lon": 29.54634
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päivionsaaren päiväkoti",
+  "lat": 62.31233,
+  "lon": 27.89368
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Könönpellon päiväkoti",
+  "lat": 62.30179,
+  "lon": 27.93913
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Kankunharjun päiväkoti",
+  "lat": 62.33375,
+  "lon": 27.883
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Repokankaan päiväkoti",
+  "lat": 62.31337,
+  "lon": 27.8458
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Päiväkoti Touhula Aarrearkku",
+  "lat": 62.31474,
+  "lon": 27.83724
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Ahokkalan koulu",
+  "lat": 62.70073,
+  "lon": 29.92076
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Jakokosken koulu",
+  "lat": 62.74096,
+  "lon": 29.98369
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Selkien koulu",
+  "lat": 62.63697,
+  "lon": 30.12931
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Varparannan koulu",
+  "lat": 62.85199,
+  "lon": 29.78772
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "(unnamed)",
+  "lat": 63.01238,
+  "lon": 29.24105
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "(unnamed)",
+  "lat": 62.4393,
+  "lon": 29.96836
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Vehmasmäen koulu",
+  "lat": 62.75257,
+  "lon": 27.56082
+ },
+ {
+  "cat": "edu",
+  "type": "kindergarten",
+  "name": "Partalanmäen päiväkoti",
+  "lat": 63.33061,
+  "lon": 30.03036
+ },
+ {
+  "cat": "edu",
+  "type": "school",
+  "name": "Riveria Niittylahti",
+  "lat": 62.50792,
+  "lon": 29.82249
+ }
+]

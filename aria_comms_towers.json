@@ -1,0 +1,1498 @@
+[
+ {
+  "name": "Vuokatin radio- ja TV-masto",
+  "lat": 64.12637,
+  "lon": 28.25341,
+  "height": 326.2,
+  "operator": "Digita Oy",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (318m)",
+  "lat": 62.73876,
+  "lon": 27.54163,
+  "height": 318.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (154m)",
+  "lat": 64.24867,
+  "lon": 27.96608,
+  "height": 154.2,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (141m)",
+  "lat": 63.36549,
+  "lon": 28.44355,
+  "height": 141.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Neulamäen linkkimasto",
+  "lat": 62.88664,
+  "lon": 27.59329,
+  "height": 140.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (133m)",
+  "lat": 63.08443,
+  "lon": 27.66244,
+  "height": 133.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (126m)",
+  "lat": 62.57841,
+  "lon": 29.83002,
+  "height": 125.6,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (125m)",
+  "lat": 63.5483,
+  "lon": 29.09962,
+  "height": 125.3,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (123m)",
+  "lat": 62.30443,
+  "lon": 27.93064,
+  "height": 123.3,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Repokallion masto",
+  "lat": 62.58742,
+  "lon": 29.81263,
+  "height": 120.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (119m)",
+  "lat": 62.34039,
+  "lon": 27.85851,
+  "height": 119.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (118m)",
+  "lat": 63.3784,
+  "lon": 27.76777,
+  "height": 117.6,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (111m)",
+  "lat": 62.89332,
+  "lon": 27.65202,
+  "height": 111.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (110m)",
+  "lat": 64.33099,
+  "lon": 28.09388,
+  "height": 110.5,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (110m)",
+  "lat": 62.65042,
+  "lon": 30.93396,
+  "height": 110.0,
+  "operator": "Sonera",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (109m)",
+  "lat": 62.63845,
+  "lon": 29.23979,
+  "height": 109.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (103m)",
+  "lat": 63.96174,
+  "lon": 29.6879,
+  "height": 103.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (100m)",
+  "lat": 62.73526,
+  "lon": 29.81669,
+  "height": 100.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (100m)",
+  "lat": 63.49102,
+  "lon": 29.48463,
+  "height": 100.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (99m)",
+  "lat": 62.87176,
+  "lon": 30.81089,
+  "height": 99.4,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (99m)",
+  "lat": 64.38887,
+  "lon": 29.83964,
+  "height": 99.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (99m)",
+  "lat": 64.17426,
+  "lon": 29.07154,
+  "height": 99.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (99m)",
+  "lat": 63.68375,
+  "lon": 28.7839,
+  "height": 99.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (99m)",
+  "lat": 64.19963,
+  "lon": 28.90058,
+  "height": 99.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (99m)",
+  "lat": 62.81193,
+  "lon": 30.05882,
+  "height": 98.6,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (98m)",
+  "lat": 63.1338,
+  "lon": 29.19349,
+  "height": 98.5,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (98m)",
+  "lat": 63.33968,
+  "lon": 29.97466,
+  "height": 98.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (96m)",
+  "lat": 62.75047,
+  "lon": 28.3963,
+  "height": 96.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (96m)",
+  "lat": 64.11499,
+  "lon": 29.57414,
+  "height": 96.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (94m)",
+  "lat": 62.41362,
+  "lon": 29.05041,
+  "height": 94.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (94m)",
+  "lat": 62.55282,
+  "lon": 29.04499,
+  "height": 94.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (94m)",
+  "lat": 62.8333,
+  "lon": 28.42291,
+  "height": 94.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (94m)",
+  "lat": 63.30881,
+  "lon": 29.43355,
+  "height": 94.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (93m)",
+  "lat": 62.17678,
+  "lon": 28.17313,
+  "height": 93.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (93m)",
+  "lat": 63.43444,
+  "lon": 29.5523,
+  "height": 93.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (92m)",
+  "lat": 62.2187,
+  "lon": 30.3505,
+  "height": 92.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.19309,
+  "lon": 29.90538,
+  "height": 91.0,
+  "operator": "Sonera",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.1964,
+  "lon": 28.05391,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.31734,
+  "lon": 27.50879,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.54948,
+  "lon": 28.0996,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.38315,
+  "lon": 28.74243,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.21618,
+  "lon": 30.05623,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.14872,
+  "lon": 28.95536,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.1075,
+  "lon": 29.29355,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.54102,
+  "lon": 30.03859,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.30825,
+  "lon": 30.59663,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.53424,
+  "lon": 28.91148,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.38019,
+  "lon": 30.77617,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.48296,
+  "lon": 30.78251,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.61867,
+  "lon": 31.2359,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.03062,
+  "lon": 31.06994,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.95077,
+  "lon": 31.28063,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.17825,
+  "lon": 31.03201,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.74848,
+  "lon": 27.94422,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.73732,
+  "lon": 28.82225,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.55032,
+  "lon": 28.15735,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.12501,
+  "lon": 29.02423,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.83658,
+  "lon": 30.03511,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 62.96138,
+  "lon": 29.91177,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.46611,
+  "lon": 29.40671,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.44551,
+  "lon": 29.84866,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.21346,
+  "lon": 30.12024,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.259,
+  "lon": 30.54138,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.25053,
+  "lon": 30.6788,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.50336,
+  "lon": 29.89916,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.70287,
+  "lon": 27.65938,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.57608,
+  "lon": 28.76155,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 64.14508,
+  "lon": 27.86368,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 63.91242,
+  "lon": 29.17453,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 64.41523,
+  "lon": 29.52333,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (91m)",
+  "lat": 64.37876,
+  "lon": 28.667,
+  "height": 91.0,
+  "operator": "",
+  "tower_type": "tower"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 62.41895,
+  "lon": 28.56063,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 62.57374,
+  "lon": 29.15057,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 62.43888,
+  "lon": 30.33527,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 62.32188,
+  "lon": 30.39609,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 63.52395,
+  "lon": 27.77523,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 63.04138,
+  "lon": 29.42317,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 62.82938,
+  "lon": 29.8309,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 64.33278,
+  "lon": 27.89213,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (90m)",
+  "lat": 64.39968,
+  "lon": 28.24758,
+  "height": 90.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (89m)",
+  "lat": 62.22751,
+  "lon": 28.98503,
+  "height": 89.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (89m)",
+  "lat": 62.29652,
+  "lon": 29.17316,
+  "height": 89.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (89m)",
+  "lat": 63.06428,
+  "lon": 30.60912,
+  "height": 89.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (87m)",
+  "lat": 62.44713,
+  "lon": 29.27182,
+  "height": 87.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (87m)",
+  "lat": 63.70334,
+  "lon": 28.78201,
+  "height": 87.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (87m)",
+  "lat": 62.83652,
+  "lon": 31.20004,
+  "height": 87.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.2218,
+  "lon": 29.72535,
+  "height": 86.0,
+  "operator": "Sonera",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.36993,
+  "lon": 28.37224,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 64.28137,
+  "lon": 30.26459,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 64.10469,
+  "lon": 29.76162,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 63.7444,
+  "lon": 28.15292,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.46446,
+  "lon": 28.09669,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.56151,
+  "lon": 28.62396,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.43114,
+  "lon": 27.94942,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.59717,
+  "lon": 28.52502,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.65521,
+  "lon": 30.14619,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.37454,
+  "lon": 28.96884,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.36627,
+  "lon": 30.08451,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.50064,
+  "lon": 29.91947,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.57583,
+  "lon": 29.46782,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.34287,
+  "lon": 30.81968,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.50646,
+  "lon": 31.08467,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.98446,
+  "lon": 28.02118,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 63.02522,
+  "lon": 28.64012,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 62.96456,
+  "lon": 29.77882,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 63.1576,
+  "lon": 30.13384,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 63.61301,
+  "lon": 28.71018,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 64.38744,
+  "lon": 28.03795,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 63.92618,
+  "lon": 30.03307,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (86m)",
+  "lat": 64.07605,
+  "lon": 29.21142,
+  "height": 86.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 62.77041,
+  "lon": 30.13688,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 62.52254,
+  "lon": 28.66257,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 62.14325,
+  "lon": 28.23215,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 63.01617,
+  "lon": 27.60771,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 63.12449,
+  "lon": 28.53772,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 62.77603,
+  "lon": 29.17298,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 62.84647,
+  "lon": 28.91211,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 62.89535,
+  "lon": 29.32563,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 62.94384,
+  "lon": 30.2299,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 63.93549,
+  "lon": 28.15653,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 64.42294,
+  "lon": 27.68111,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 63.63219,
+  "lon": 29.85237,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 64.32076,
+  "lon": 29.13419,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (85m)",
+  "lat": 64.32104,
+  "lon": 29.48341,
+  "height": 85.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (84m)",
+  "lat": 64.03966,
+  "lon": 28.32169,
+  "height": 84.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (84m)",
+  "lat": 64.21046,
+  "lon": 29.44684,
+  "height": 84.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 64.48666,
+  "lon": 29.72442,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 64.26037,
+  "lon": 29.82573,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 64.08983,
+  "lon": 29.01637,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 62.35405,
+  "lon": 28.84467,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 63.14006,
+  "lon": 27.62646,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 63.40979,
+  "lon": 29.768,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 64.47447,
+  "lon": 28.69601,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 63.87459,
+  "lon": 28.45802,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 64.01861,
+  "lon": 28.54266,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 63.79833,
+  "lon": 29.83294,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 63.99716,
+  "lon": 29.26454,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (83m)",
+  "lat": 64.04162,
+  "lon": 29.93184,
+  "height": 83.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (82m)",
+  "lat": 64.1421,
+  "lon": 29.97502,
+  "height": 82.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (82m)",
+  "lat": 64.13542,
+  "lon": 27.98695,
+  "height": 82.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (82m)",
+  "lat": 62.14188,
+  "lon": 30.04526,
+  "height": 81.5,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.3455,
+  "lon": 29.84932,
+  "height": 81.0,
+  "operator": "Sonera",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.41034,
+  "lon": 29.59309,
+  "height": 81.0,
+  "operator": "Sonera",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.46481,
+  "lon": 28.23669,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 64.14228,
+  "lon": 29.59477,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.3219,
+  "lon": 28.58049,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.41083,
+  "lon": 27.82101,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.43301,
+  "lon": 28.42379,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.29164,
+  "lon": 27.70785,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.4861,
+  "lon": 28.5162,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.38781,
+  "lon": 28.15107,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.15734,
+  "lon": 27.63045,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.27113,
+  "lon": 27.59626,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.26192,
+  "lon": 28.10983,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.135,
+  "lon": 29.56729,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.29177,
+  "lon": 30.69203,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.4703,
+  "lon": 28.86277,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.67767,
+  "lon": 29.1304,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.28092,
+  "lon": 28.89041,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.61035,
+  "lon": 29.46193,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.63834,
+  "lon": 29.87235,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.47353,
+  "lon": 29.02048,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.82358,
+  "lon": 31.29155,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.87279,
+  "lon": 27.91831,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.71982,
+  "lon": 28.24329,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.9154,
+  "lon": 28.03815,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.83206,
+  "lon": 28.21269,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.90756,
+  "lon": 28.64958,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.70684,
+  "lon": 28.92437,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 62.73975,
+  "lon": 29.44557,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 63.35449,
+  "lon": 29.62853,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 63.48717,
+  "lon": 29.68202,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 63.39697,
+  "lon": 30.42098,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 64.01865,
+  "lon": 28.85478,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (81m)",
+  "lat": 64.24497,
+  "lon": 28.21945,
+  "height": 81.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 62.31185,
+  "lon": 27.92965,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 62.29015,
+  "lon": 27.64809,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 62.24462,
+  "lon": 28.73725,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 62.53511,
+  "lon": 30.55768,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 62.90747,
+  "lon": 29.14731,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 64.43526,
+  "lon": 29.25707,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 63.96828,
+  "lon": 27.87827,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 63.65567,
+  "lon": 28.17848,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 63.85237,
+  "lon": 28.07198,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 64.06632,
+  "lon": 30.27709,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Comms mast (80m)",
+  "lat": 62.90943,
+  "lon": 27.6553,
+  "height": 80.0,
+  "operator": "",
+  "tower_type": "mast"
+ },
+ {
+  "name": "Maaselänmäki",
+  "lat": 63.67317,
+  "lon": 28.42101,
+  "height": 0,
+  "operator": "",
+  "tower_type": "mast"
+ }
+]
